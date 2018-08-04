@@ -7,7 +7,7 @@
 |[Drop](https://www.earnwithdrop.com/)|Customer rewards program|[Drop careers](https://www.earnwithdrop.com/pages/careers)|
 |[eBlock](https://www.eblock.ca/)|Online car auction|[eBlock on LinkedIn](https://www.linkedin.com/company/eblock-inc./)|
 |[Hubba](https://www.hubba.com/)|B2B (business to business) e-commerce|[Hubba careers](https://hq.hubba.com/careers)|
-|[Muse](http://www.choosemuse.com/) (aka InteraXon)|Brain sensing headband|[InteraXon careers](http://www.choosemuse.com/careers/)|
+|[Muse](http://www.choosemuse.com/)|Brain sensing headband|[Muse careers](http://www.choosemuse.com/careers/)|
 |[Ritual](https://www.ritual.co/)|Online food ordering|[Ritual careers](https://www.ritual.co/careers)|
 |[Setter](https://setter.com/)|Home improvement, property management|[Setter on AngelList](https://angel.co/setter-home-services/jobs)|
 |[SnapTravel](https://www.snaptravel.com/)|Chat-based travel booking|[SnapTravel careers](https://www.snaptravel.com/careers)|
@@ -26,8 +26,10 @@
 |[Fathom Health](https://www.fathomhealth.co/)|Machine learning for medical codes|San Francisco, CA|[Fathom Health careers](https://jobs.lever.co/fathomhealth)|
 |[Google](https://www.google.com/)|Tech... all the tech|Mountain View, CA|[Google jobs Toronto](https://careers.google.com/jobs#t=sq&q=j&li=20&l=false&jl=43.653226%3A-79.38318429999998%3AToronto%2C+ON%2C+Canada%3ACA%3A%3A19.271436077549094%3ALOCALITY&jld=10&&jcoid=7c8c6665-81cf-4e11-8fc9-ec1d6a69120c&jcoid=e43afd0d-d215-45db-a154-5386c9036525&)|
 |[Instacart](https://www.instacart.ca/)|Online grocery delivery|San Francisco, CA|[Instacart careers](https://careers.instacart.com/)|
+|[Pivotal](https://pivotal.io/)|Business solutions, developer tools, cloud platform|San Francisco, CA|[Pivotal careers](https://pivotal.io/careers)|
 |[Shopify](https://www.shopify.ca/)|E-commerce platform|Ottawa, ON|[Shopify careers](https://www.shopify.ca/careers)|
 |[Slack](https://slack.com)|Collaboration tools, instant messaging|San Francisco, CA|[Slack careers](https://slack.com)|
+|[Snap, Inc.](https://www.snap.com)|Fun stuff (Snapchat, Bitmoji)|Los Angeles, CA|[Snap careers](https://careers.snap.com/)|
 |[WorkMarket](https://www.workmarket.com/)|Freelance/contract management system|New York, NY|[WorkMarket careers](https://www.workmarket.com/careers)|
 
 # Tech Companies who can Hire Remotely in Ontario
@@ -36,9 +38,16 @@
 |---------|------------------|-------------|------------|
 |[Apple](https://www.apple.com/ca/)|Consumer electronics|Cupertino, CA|[Apple job search](https://jobs.apple.com/ca/search)|
 |[Auth0](https://auth0.com/)|Identity access management|Seattle, WA|[Auth0 careers](https://auth0.com/careers)|
+|[Big Bear Software](http://www.bigbearsoftware.ca/)|Custom software, websites, mobile apps|Penticton, BC|[Big Bear Software careers](http://bigbearcustomsoftware.com/careers/)|
+|[Cockroach Labs](https://www.cockroachlabs.com/)|Distributed database|New York, NY|[Cockroach Labs careers](https://www.cockroachlabs.com/careers/)|
+|[Confluent](https://www.confluent.io/)|Enterprise Kafka, streaming applications|Palo Alto, CA|[Confluent careers](https://www.confluent.io/careers/)|
 |[Datadog](https://www.datadoghq.com/)|Monitoring & analytics|New York, NY|[Datadog careers](https://www.datadoghq.com/careers/)|
 |[DigitalOcean](https://www.digitalocean.com/)|Cloud computing platform|New York, NY|[DigitalOcean careers](https://www.digitalocean.com/company/careers/)|
 |[Fastly](https://www.fastly.com/)|Edge cloud platform, CDN|San Francisco, CA|[Fastly careers](https://www.fastly.com/about/careers)|
 |[Github](https://github.com/)|Development platform: code hosting, version control|San Francisco, CA|[Github careers](https://github.com/about/careers)|
+|[Matrix.org](https://matrix.org)|Open source real time communication|London, United Kingdom|[Matrix.org on AngelList](https://angel.co/matrix-org)|
+|[NS1](https://ns1.com/)|Managed DNS|New York, NY|[NS1 careers](https://ns1.com/careers)|
 |[Nylas](https://www.nylas.com/)|Email, calendar, contacts|San Francisco, CA|[Nylas careers](https://www.nylas.com/jobs/)|
+|[PacerPro](https://www.pacerpro.com/)|Court litigation management software|San Francisco, CA|[PacerPro on LinkedIn](https://www.linkedin.com/company/pacerpro/)|
+|[Stellar](https://www.stellar.org/)|Cryptocurrency|San Francisco, CA|[Stellar careers](https://jobs.lever.co/stellar)|
 |[Stripe](https://stripe.com)|Online payments|San Francisco, CA|[Stripe careers](https://stripe.com/jobs)|
