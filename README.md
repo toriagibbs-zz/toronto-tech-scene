@@ -32,11 +32,13 @@
 |[Fathom Health](https://www.fathomhealth.co/)|Machine learning for medical codes|San Francisco, CA|[Fathom Health careers](https://jobs.lever.co/fathomhealth)|
 |[Google](https://www.google.com/)|Tech... all the tech|Mountain View, CA|[Google jobs Toronto](https://careers.google.com/jobs#t=sq&q=j&li=20&l=false&jl=43.653226%3A-79.38318429999998%3AToronto%2C+ON%2C+Canada%3ACA%3A%3A19.271436077549094%3ALOCALITY&jld=10&&jcoid=7c8c6665-81cf-4e11-8fc9-ec1d6a69120c&jcoid=e43afd0d-d215-45db-a154-5386c9036525&)|
 |[Instacart](https://www.instacart.ca/)|Online grocery delivery|San Francisco, CA|[Instacart careers](https://careers.instacart.com/)|
+|[Oracle](https://www.oracle.com/ca-en/corporate/index.html)|Databases, cloud computing, enterprise software|Redwood City, CA|[Oracle careers](https://www.oracle.com/ca-en/corporate/index.html#careers)|
 |[Pivotal](https://pivotal.io/)|Business solutions, developer tools, cloud platform|San Francisco, CA|[Pivotal careers](https://pivotal.io/careers)|
 |[Shopify](https://www.shopify.ca/)|E-commerce platform|Ottawa, ON|[Shopify careers](https://www.shopify.ca/careers)|
 |[Slack](https://slack.com)|Collaboration tools, instant messaging|San Francisco, CA|[Slack careers](https://slack.com)|
 |[Snap, Inc.](https://www.snap.com)|Fun stuff (Snapchat, Bitmoji)|Los Angeles, CA|[Snap careers](https://careers.snap.com/)|
 |[Turbonomic](https://turbonomic.com/)|Workload automation for the cloud|Boston, MA|[Turbonomic careers](https://turbonomic.com/company/careers/)|
+|[Verint](https://www.verint.com/careers/index.html)|Business solutions, customer engagement management|Huntington, NY|[Verint careers](https://www.verint.com/careers/index.html)|
 |[WorkMarket](https://www.workmarket.com/)|Freelance/contract management system|New York, NY|[WorkMarket careers](https://www.workmarket.com/careers)|
 
 # Tech Companies who can Hire Remotely in Ontario
@@ -55,9 +57,11 @@
 |[Github](https://github.com/)|Development platform: code hosting, version control|San Francisco, CA|[Github careers](https://github.com/about/careers)|
 |[IOHK](https://iohk.io/)|Blockchain, cryptocurrency|Hong Kong|[IOHK careers](https://iohk.io/careers/)|
 |[Matrix.org](https://matrix.org)|Open source real time communication|London, United Kingdom|[Matrix.org on AngelList](https://angel.co/matrix-org)|
+|[Mesosphere](https://mesosphere.com/)|Enterprise cloud/container platform|San Francisco, CA|[Mesosphere careers](https://mesosphere.com/careers/)|
 |[NS1](https://ns1.com/)|Managed DNS|New York, NY|[NS1 careers](https://ns1.com/careers)|
 |[Nylas](https://www.nylas.com/)|Email, calendar, contacts|San Francisco, CA|[Nylas careers](https://www.nylas.com/jobs/)|
 |[PacerPro](https://www.pacerpro.com/)|Court litigation management software|San Francisco, CA|[PacerPro on LinkedIn](https://www.linkedin.com/company/pacerpro/)|
+|[Rivalry.gg](https://www.rivalry.gg/)|Esports betting|Isle of Man|[Rivalry.gg on LinkedIn](https://www.linkedin.com/company/rivalry-ltd/)|
 |[Stellar](https://www.stellar.org/)|Cryptocurrency|San Francisco, CA|[Stellar careers](https://jobs.lever.co/stellar)|
 |[Stripe](https://stripe.com)|Online payments|San Francisco, CA|[Stripe careers](https://stripe.com/jobs)|
 |[VEXXHOST](https://vexxhost.com/)|Cloud computing services|Montreal, QC|[VEXXHOST on LinkedIn](https://www.linkedin.com/company/vexxhost/)|
