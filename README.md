@@ -11,13 +11,17 @@
 |[Ritual](https://www.ritual.co/)|Online food ordering|[Ritual careers](https://www.ritual.co/careers)|
 |[Setter](https://setter.com/)|Home improvement, property management|[Setter on AngelList](https://angel.co/setter-home-services/jobs)|
 |[SnapTravel](https://www.snaptravel.com/)|Chat-based travel booking|[SnapTravel careers](https://www.snaptravel.com/careers)|
+|[Uberflip](https://www.uberflip.com/)|Content experience management (marketing)|[Uberflip careers](https://www.uberflip.com/careers/)|
 |[Vena Solutions](https://venasolutions.com)|Business solutions software|[Vena Solutions careers](https://careers.venasolutions.com/)|
+|[WattPad](https://www.wattpad.com/)|Community for reading, writing, publishing|[WattPad careers](https://company.wattpad.com/work-at-wattpad)|
 
 # Tech Companies with an Office in Toronto
 
 | Company | Industry/product | HQ location | Learn more |
 |---------|------------------|-------------|------------|
+|[Amazon](https://www.amazon.ca/)|E-commerce|Seattle, WA|[Amazon jobs Toronto](https://www.amazon.jobs/en/locations/toronto-canada)|
 |[Cadre](https://cadre.com/)|Real estate investment|New York, NY|[Cadre careers](https://cadre.com/careers)|
+|[CircleCI](https://circleci.com/)|Continuous integration, continuous delivery|San Francisco, CA|[CircleCI careers](https://circleci.com/jobs/)|
 |[Etsy](https://www.etsy.com/)|E-commerce for unique goods|Brooklyn, NY|[Etsy careers](https://www.etsy.com/careers)|
 |[Fathom Health](https://www.fathomhealth.co/)|Machine learning for medical codes|San Francisco, CA|[Fathom Health careers](https://jobs.lever.co/fathomhealth)|
 |[Google](https://www.google.com/)|Tech... all the tech|Mountain View, CA|[Google jobs Toronto](https://careers.google.com/jobs#t=sq&q=j&li=20&l=false&jl=43.653226%3A-79.38318429999998%3AToronto%2C+ON%2C+Canada%3ACA%3A%3A19.271436077549094%3ALOCALITY&jld=10&&jcoid=7c8c6665-81cf-4e11-8fc9-ec1d6a69120c&jcoid=e43afd0d-d215-45db-a154-5386c9036525&)|
@@ -30,9 +34,11 @@
 
 | Company | Industry/product | HQ location | Learn more |
 |---------|------------------|-------------|------------|
+|[Apple](https://www.apple.com/ca/)|Consumer electronics|Cupertino, CA|[Apple job search](https://jobs.apple.com/ca/search)|
 |[Auth0](https://auth0.com/)|Identity access management|Seattle, WA|[Auth0 careers](https://auth0.com/careers)|
 |[Datadog](https://www.datadoghq.com/)|Monitoring & analytics|New York, NY|[Datadog careers](https://www.datadoghq.com/careers/)|
 |[DigitalOcean](https://www.digitalocean.com/)|Cloud computing platform|New York, NY|[DigitalOcean careers](https://www.digitalocean.com/company/careers/)|
 |[Fastly](https://www.fastly.com/)|Edge cloud platform, CDN|San Francisco, CA|[Fastly careers](https://www.fastly.com/about/careers)|
 |[Github](https://github.com/)|Development platform: code hosting, version control|San Francisco, CA|[Github careers](https://github.com/about/careers)|
+|[Nylas](https://www.nylas.com/)|Email, calendar, contacts|San Francisco, CA|[Nylas careers](https://www.nylas.com/jobs/)|
 |[Stripe](https://stripe.com)|Online payments|San Francisco, CA|[Stripe careers](https://stripe.com/jobs)|
