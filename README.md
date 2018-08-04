@@ -8,6 +8,7 @@
 |[eBlock](https://www.eblock.ca/)|Online car auction|[eBlock on LinkedIn](https://www.linkedin.com/company/eblock-inc./)|
 |[Hubba](https://www.hubba.com/)|B2B (business to business) e-commerce|[Hubba careers](https://hq.hubba.com/careers)|
 |[Muse](http://www.choosemuse.com/)|Brain sensing headband|[Muse careers](http://www.choosemuse.com/careers/)|
+|[Northern Block](https://www.northernblock.ca/)|Blockchain|[Northern Block careers](https://www.northernblock.ca/join)|
 |[Ritual](https://www.ritual.co/)|Online food ordering|[Ritual careers](https://www.ritual.co/careers)|
 |[Setter](https://setter.com/)|Home improvement, property management|[Setter on AngelList](https://angel.co/setter-home-services/jobs)|
 |[SnapTravel](https://www.snaptravel.com/)|Chat-based travel booking|[SnapTravel careers](https://www.snaptravel.com/careers)|
@@ -30,12 +31,14 @@
 |[Shopify](https://www.shopify.ca/)|E-commerce platform|Ottawa, ON|[Shopify careers](https://www.shopify.ca/careers)|
 |[Slack](https://slack.com)|Collaboration tools, instant messaging|San Francisco, CA|[Slack careers](https://slack.com)|
 |[Snap, Inc.](https://www.snap.com)|Fun stuff (Snapchat, Bitmoji)|Los Angeles, CA|[Snap careers](https://careers.snap.com/)|
+|[Turbonomic](https://turbonomic.com/)|Workload automation for the cloud|Boston, MA|[Turbonomic careers](https://turbonomic.com/company/careers/)|
 |[WorkMarket](https://www.workmarket.com/)|Freelance/contract management system|New York, NY|[WorkMarket careers](https://www.workmarket.com/careers)|
 
 # Tech Companies who can Hire Remotely in Ontario
 
 | Company | Industry/product | HQ location | Learn more |
 |---------|------------------|-------------|------------|
+|[Accenture](https://www.accenture.com)|Digital consulting|Dublin, Ireland|[Accenture careers](https://www.accenture.com/ca-en/Careers)|
 |[Apple](https://www.apple.com/ca/)|Consumer electronics|Cupertino, CA|[Apple job search](https://jobs.apple.com/ca/search)|
 |[Auth0](https://auth0.com/)|Identity access management|Seattle, WA|[Auth0 careers](https://auth0.com/careers)|
 |[Big Bear Software](http://www.bigbearsoftware.ca/)|Custom software, websites, mobile apps|Penticton, BC|[Big Bear Software careers](http://bigbearcustomsoftware.com/careers/)|
@@ -45,9 +48,11 @@
 |[DigitalOcean](https://www.digitalocean.com/)|Cloud computing platform|New York, NY|[DigitalOcean careers](https://www.digitalocean.com/company/careers/)|
 |[Fastly](https://www.fastly.com/)|Edge cloud platform, CDN|San Francisco, CA|[Fastly careers](https://www.fastly.com/about/careers)|
 |[Github](https://github.com/)|Development platform: code hosting, version control|San Francisco, CA|[Github careers](https://github.com/about/careers)|
+|[IOHK](https://iohk.io/)|Blockchain, cryptocurrency|Hong Kong|[IOHK careers](https://iohk.io/careers/)|
 |[Matrix.org](https://matrix.org)|Open source real time communication|London, United Kingdom|[Matrix.org on AngelList](https://angel.co/matrix-org)|
 |[NS1](https://ns1.com/)|Managed DNS|New York, NY|[NS1 careers](https://ns1.com/careers)|
 |[Nylas](https://www.nylas.com/)|Email, calendar, contacts|San Francisco, CA|[Nylas careers](https://www.nylas.com/jobs/)|
 |[PacerPro](https://www.pacerpro.com/)|Court litigation management software|San Francisco, CA|[PacerPro on LinkedIn](https://www.linkedin.com/company/pacerpro/)|
 |[Stellar](https://www.stellar.org/)|Cryptocurrency|San Francisco, CA|[Stellar careers](https://jobs.lever.co/stellar)|
 |[Stripe](https://stripe.com)|Online payments|San Francisco, CA|[Stripe careers](https://stripe.com/jobs)|
+|[VEXXHOST](https://vexxhost.com/)|Cloud computing services|Montreal, QC|[VEXXHOST on LinkedIn](https://www.linkedin.com/company/vexxhost/)|
