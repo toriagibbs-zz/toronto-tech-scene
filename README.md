@@ -24,6 +24,7 @@
 |[Ritual](https://www.ritual.co/)|Online food ordering|[Ritual careers](https://www.ritual.co/careers)|
 |[Setter](https://setter.com/)|Home improvement, property management|[Setter on AngelList](https://angel.co/setter-home-services)|
 |[SnapTravel](https://www.snaptravel.com/)|Chat-based travel booking|[SnapTravel careers](https://www.snaptravel.com/careers)|
+|[Thomson Reuters](https://www.snap.com)|Business intelligence|[Thomson Reuters jobs in Toronto](http://jobs.thomsonreuters.com/ListJobs/All/Search/tr-other-locations/toronto/tr-full-country-name/canada/)|
 |[TradeRev](https://www.traderev.com/en-ca/)|Online car auction|[TradeRev careers](http://work.traderev.com/)|
 |[Uberflip](https://www.uberflip.com/)|Content experience management (marketing)|[Uberflip careers](https://www.uberflip.com/careers/)|
 |[Vena Solutions](https://venasolutions.com)|Business solutions software|[Vena Solutions careers](https://careers.venasolutions.com/)|
