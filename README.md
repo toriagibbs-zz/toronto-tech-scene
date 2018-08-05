@@ -23,6 +23,7 @@
 |[Vena Solutions](https://venasolutions.com)|Business solutions software|[Vena Solutions careers](https://careers.venasolutions.com/)|
 |[WattPad](https://www.wattpad.com/)|Community for reading, writing, publishing|[WattPad careers](https://company.wattpad.com/work-at-wattpad)|
 |[Wealthsimple](https://www.wealthsimple.com/en-ca/)|Finance, investment|[Wealthsimple careers](https://www.wealthsimple.com/en-ca/work-with-us)|
+|[Paytm Labs](https://paytm.ca)|Fintech / Mobile Payments|[Paytm Careers](https://jobs.lever.co/paytm?team=Paytm%20Labs)|
 
 # Tech Companies with an Office in Toronto
 
