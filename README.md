@@ -35,6 +35,7 @@
 | Company | Industry/product | HQ location | Learn more |
 |---------|------------------|-------------|------------|
 |[Amazon](https://www.amazon.ca/)|E-commerce|Seattle, WA|[Amazon jobs Toronto](https://www.amazon.jobs/en/locations/toronto-canada)|
+|[Autodesk](https://www.autodesk.ca)|Software|San Rafael, CA|[Autodesk Careers](https://autodesk.rolepoint.com/?shorturl=hyRWd)|
 |[Cadre](https://cadre.com/)|Real estate investment|New York, NY|[Cadre careers](https://cadre.com/careers)|
 |[CircleCI](https://circleci.com/)|Continuous integration, continuous delivery|San Francisco, CA|[CircleCI careers](https://circleci.com/jobs/)|
 |[eBay](https://www.ebay.ca/)|E-commerce, online auction (includes [Kijiji](https://www.kijiji.ca/)!)|San Jose, CA|[eBay careers in Toronto](https://careers.ebayinc.com/join-our-team/start-your-search/find-jobs-by-location/detail/canada)|
