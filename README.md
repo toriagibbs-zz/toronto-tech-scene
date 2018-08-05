@@ -6,6 +6,7 @@
 |[Autonomic](https://autonomic.ai/)|Technology for transit and mobility|[Autonomic careers](https://autonomic.ai/careers)|
 |[BenchSci](https://www.benchsci.com/)|Machine learning for antibody search|[BenchSci careers](https://benchsci.bamboohr.com/jobs/)|
 |[Dash MD](https://www.dashmd.co/)|Healthcare data management|[Dash MD on AngelList](https://angel.co/dash-md)|
+|[Dot Health](https://www.dothealth.ca/)|Digital health records|[Jobs at Dot Health](https://www.dothealth.ca/jobs)|
 |[Drop](https://www.earnwithdrop.com/)|Customer rewards program|[Drop careers](https://www.earnwithdrop.com/pages/careers)|
 |[eBlock](https://www.eblock.ca/)|Online car auction|[eBlock on LinkedIn](https://www.linkedin.com/company/eblock-inc./)|
 |[ecobee](https://www.ecobee.com/)|Smart home technology|[ecobee careers](https://www.ecobee.com/careers/)|
