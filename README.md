@@ -28,7 +28,7 @@
 |[TradeRev](https://www.traderev.com/en-ca/)|Online car auction|[TradeRev careers](http://work.traderev.com/)|
 |[Uberflip](https://www.uberflip.com/)|Content experience management (marketing)|[Uberflip careers](https://www.uberflip.com/careers/)|
 |[Vena Solutions](https://venasolutions.com)|Business solutions software|[Vena Solutions careers](https://careers.venasolutions.com/)|
-|[WattPad](https://www.wattpad.com/)|Community for reading, writing, publishing|[WattPad careers](https://company.wattpad.com/work-at-wattpad)|
+|[Wattpad](https://www.wattpad.com/)|Community for reading, writing, publishing|[Wattpad careers](https://company.wattpad.com/work-at-wattpad)|
 |[Wealthsimple](https://www.wealthsimple.com/en-ca/)|Finance, investment|[Wealthsimple careers](https://www.wealthsimple.com/en-ca/work-with-us)|
 
 # Tech Companies with an Office in Toronto
