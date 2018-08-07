@@ -13,6 +13,7 @@
 |[Drop](https://www.earnwithdrop.com/)|Customer rewards program|[Drop careers](https://www.earnwithdrop.com/pages/careers)|
 |[eBlock](https://www.eblock.ca/)|Online car auction|[eBlock on LinkedIn](https://www.linkedin.com/company/eblock-inc./)|
 |[ecobee](https://www.ecobee.com/)|Smart home technology|[ecobee careers](https://www.ecobee.com/careers/)|
+|[FreshBooks](https://www.freshbooks.com/)|Accounting, invoicing|[FreshBooks careers](https://www.freshbooks.com/careers)|
 |[FundThrough](https://www.fundthrough.com/)|Finance, funding, invoicing|[FundThrough careers](https://fundthrough.humi.ca/job-board)|
 |[Hubba](https://www.hubba.com/)|B2B (business to business) e-commerce|[Hubba careers](https://hq.hubba.com/careers)|
 |[Kobo](https://www.kobo.com/ca/en)|eBooks, eReader, audiobooks|[Kobo careers](https://www.kobo.com/ca/en/p/careers)|
