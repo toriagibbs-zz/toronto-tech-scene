@@ -60,6 +60,7 @@
 |[Pivotal](https://pivotal.io/)|Business solutions, developer tools, cloud platform|San Francisco, CA|[Pivotal careers](https://pivotal.io/careers)|
 |[Sidewalk Labs](https://www.sidewalklabs.com/)|Urban innovation, city planning|New York, NY|[Sidewalk Labs careers](https://boards.greenhouse.io/sidewalklabs)|
 |[Shopify](https://www.shopify.ca/)|E-commerce platform|Ottawa, ON|[Shopify careers](https://www.shopify.ca/careers)|
+|[Shopkick](https://www.shopkick.com/)|Shopping rewards program|Redwood City, CA|[Shopkick careers](https://www.shopkick.com/careers)|
 |[Slack](https://slack.com)|Collaboration tools, instant messaging|San Francisco, CA|[Slack careers](https://slack.com)|
 |[Snap, Inc.](https://www.snap.com)|Fun stuff (Snapchat, Bitmoji)|Los Angeles, CA|[Snap careers](https://careers.snap.com/)|
 |[TELUS Digital](https://www.telus.com/)|Digital Labs for a major Canadian Telecom|Vancouver, BC|[TELUS Digital careers](https://labs.telus.com/careers)|
