@@ -2,6 +2,7 @@
 
 | Company | Industry/product | Learn more |
 |---------|------------------|------------|
+|[500px](https://500px.com/)|Photography|[500px careers](https://about.500px.com/jobs/)|
 |[Ada](https://ada.support/)|AI chatbot|[Ada careers](https://boards.greenhouse.io/ada)|
 |[Autonomic](https://autonomic.ai/)|Technology for transit and mobility|[Autonomic careers](https://autonomic.ai/careers)|
 |[BenchSci](https://www.benchsci.com/)|Machine learning for antibody search|[BenchSci careers](https://benchsci.bamboohr.com/jobs/)|
@@ -26,6 +27,7 @@
 |[Setter](https://setter.com/)|Home maintenance, personal assistant|[Setter careers](https://setter.breezy.hr/)|
 |[SnapTravel](https://www.snaptravel.com/)|Chat-based travel booking|[SnapTravel careers](https://www.snaptravel.com/careers)|
 |[Thomson Reuters](https://www.snap.com)|Business intelligence|[Thomson Reuters jobs in Toronto](http://jobs.thomsonreuters.com/ListJobs/All/Search/tr-other-locations/toronto/tr-full-country-name/canada/)|
+|[Top Hat](https://tophat.com//)|EdTech, higher education teaching platform|[Top Hat careers](https://tophat.com/work-with-us/)|
 |[TradeRev](https://www.traderev.com/en-ca/)|Online car auction|[TradeRev careers](http://work.traderev.com/)|
 |[Uberflip](https://www.uberflip.com/)|Content experience management (marketing)|[Uberflip careers](https://www.uberflip.com/careers/)|
 |[Vena Solutions](https://venasolutions.com)|Business solutions software|[Vena Solutions careers](https://careers.venasolutions.com/)|
