@@ -58,6 +58,7 @@
 |[Oracle](https://www.oracle.com/ca-en/corporate/index.html)|Databases, cloud computing, enterprise software|Redwood City, CA|[Oracle careers](https://www.oracle.com/ca-en/corporate/index.html#careers)|
 |[PagerDuty](https://www.pagerduty.com/)|Digital operations management|San Francisco, CA|[PagerDuty careers](https://www.pagerduty.com/careers/)|
 |[Pivotal](https://pivotal.io/)|Business solutions, developer tools, cloud platform|San Francisco, CA|[Pivotal careers](https://pivotal.io/careers)|
+|[Proofpoint](https://www.proofpoint.com)|Cybersecurity|Sunnyvale, CA|[Proofpoint careers](https://www.proofpoint.com/us/company/careers)|
 |[Sidewalk Labs](https://www.sidewalklabs.com/)|Urban innovation, city planning|New York, NY|[Sidewalk Labs careers](https://boards.greenhouse.io/sidewalklabs)|
 |[Shopify](https://www.shopify.ca/)|E-commerce platform|Ottawa, ON|[Shopify careers](https://www.shopify.ca/careers)|
 |[Shopkick](https://www.shopkick.com/)|Shopping rewards program|Redwood City, CA|[Shopkick careers](https://www.shopkick.com/careers)|
