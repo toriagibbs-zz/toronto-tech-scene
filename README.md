@@ -34,6 +34,7 @@
 |[Top Hat](https://tophat.com//)|EdTech, higher education teaching platform|[Top Hat careers](https://tophat.com/work-with-us/)|
 |[TradeRev](https://www.traderev.com/en-ca/)|Online car auction|[TradeRev careers](http://work.traderev.com/)|
 |[Uberflip](https://www.uberflip.com/)|Content experience management (marketing)|[Uberflip careers](https://www.uberflip.com/careers/)|
+|[Unata](https://unata.com/)|Online Grocery platform|[Unata careers](https://unata.com/about/careers/)|
 |[Vena Solutions](https://venasolutions.com)|Business solutions software|[Vena Solutions careers](https://careers.venasolutions.com/)|
 |[Wattpad](https://www.wattpad.com/)|Community for reading, writing, publishing|[Wattpad careers](https://company.wattpad.com/work-at-wattpad)|
 |[Wave](https://www.waveapps.com)|Financial software for small businesses|[Wave careers](https://www.waveapps.com/about-us/jobs/)|
