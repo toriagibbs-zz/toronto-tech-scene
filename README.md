@@ -31,6 +31,7 @@
 |[Setter](https://setter.com/)|Home maintenance, personal assistant|[Setter careers](https://setter.breezy.hr/)|
 |[SnapTravel](https://www.snaptravel.com/)|Chat-based travel booking|[SnapTravel careers](https://www.snaptravel.com/careers)|
 |[Strategic Mapping](http://www.mapstrat.com/)|Public Transit Technology|[Strategic Mapping careers](http://www.mapstrat.com/careers.html)|
+|[Ten Thousand Coffees](https://www.tenthousandcoffees.com/)|Mentoring and Networking|[Ten Thousand Coffees careers](https://secure.collage.co/jobs/tenthousandcoffees)|
 |[Thomson Reuters](https://www.snap.com)|Business intelligence|[Thomson Reuters jobs in Toronto](http://jobs.thomsonreuters.com/ListJobs/All/Search/tr-other-locations/toronto/tr-full-country-name/canada/)|
 |[Top Hat](https://tophat.com//)|EdTech, higher education teaching platform|[Top Hat careers](https://tophat.com/work-with-us/)|
 |[TradeRev](https://www.traderev.com/en-ca/)|Online car auction|[TradeRev careers](http://work.traderev.com/)|
