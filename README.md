@@ -4,12 +4,15 @@
 |---------|------------------|------------|
 |[500px](https://500px.com/)|Photography|[500px careers](https://about.500px.com/jobs/)|
 |[Ada](https://ada.support/)|AI chatbot|[Ada careers](https://boards.greenhouse.io/ada)|
+|[Ample Organics](https://ampleorganics.com)|Cannabis software solution|[Ample Organics careers](https://www.ampleorganics.com/careers)|
 |[Autonomic](https://autonomic.ai/)|Technology for transit and mobility|[Autonomic careers](https://autonomic.ai/careers)|
 |[Avail](https://avail.app/)|Personal Health Assistant|[Avail careers](https://avail.breezy.hr/)|
 |[BenchSci](https://www.benchsci.com/)|Machine learning for antibody search|[BenchSci careers](https://benchsci.bamboohr.com/jobs/)|
 |[BioConnect](https://bioconnect.com/)|Hardware Identity and Authentication|[BioConnect careers](https://bioconnect.com/careers/)|
 |[BlueDot](https://bluedot.global/)|Public health, big data|[BlueDot Careers](https://www.bluedot.global/career)|
 |[Borrowell](https://www.borrowell.com/)|Fintech, credit reporting, loans|[Borowell Careers](https://www.borrowell.com/careers/)|
+|[CareGuide](https://www.careguide.com/)|Care services|[CareGuide team](https://careguide.com/team)|
+|[Connected](https://www.connected.io/)|Product development firm|[Connected careers](https://www.connected.io/careers)|
 |[Dash MD](https://www.dashmd.co/)|Healthcare data management|[Dash MD on AngelList](https://angel.co/dash-md)|
 |[Dessa](https://www.dessa.com/)|Machine learning for business|[Jobs at Dessa](https://www.dessa.com/careers/)|
 |[Dot Health](https://www.dothealth.ca/)|Digital health records|[Jobs at Dot Health](https://www.dothealth.ca/jobs)|
@@ -17,34 +20,49 @@
 |[eBlock](https://www.eblock.ca/)|Online car auction|[eBlock on LinkedIn](https://www.linkedin.com/company/eblock-inc./)|
 |[ecobee](https://www.ecobee.com/)|Smart home technology|[ecobee careers](https://www.ecobee.com/careers/)|
 |[EventMobi](https://www.eventmobi.com/)|Mobile event apps|[EventMobi careers](https://www.eventmobi.com/careers/)|
+|[FinanceIT](https://www.financeit.io/)|Point-of-sale consumer financing|[FinanceIT careers](https://www.financeit.io/ca/en/careers)|
+|[Flipp](https://www.flipp.com/)|Retail technology|[Flipp careers](https://corp.flipp.com/careers)|
+|[Format](https://www.format.com/)|Online portfolio platform|[Format jobs](https://www.format.com/jobs)|
 |[FreshBooks](https://www.freshbooks.com/)|Accounting, invoicing|[FreshBooks careers](https://www.freshbooks.com/careers)|
 |[FundThrough](https://www.fundthrough.com/)|Finance, funding, invoicing|[FundThrough careers](https://fundthrough.humi.ca/job-board)|
 |[Hubba](https://www.hubba.com/)|B2B (business to business) e-commerce|[Hubba careers](https://hq.hubba.com/careers)|
+|[Hubdoc](https://www.hubdoc.com/)|Document collection software|[Hubdoc jobs](https://www.hubdoc.com/jobs)|
+|[Influitive](https://www.influitive.com/)|Advocacy marketing|[Influitive careers](https://www.influitive.com/careers)|
 |[Kira Systems](https://www.kirasystems.com/)|Machine Learning in Legal|[Kira Systems careers](https://www.kirasystems.com/careers/)|
 |[Kobo](https://www.kobo.com/ca/en)|eBooks, eReader, audiobooks|[Kobo careers](https://www.kobo.com/ca/en/p/careers)|
 |[Koho](https://www.koho.ca/)|Financial services|[Koho Careers](https://www.koho.ca/careers/)|
 |[League](https://league.com/ca/)|Health benefits|[League careers](https://league.com/ca/careers-at-league/)|
 |[Muse](http://www.choosemuse.com/)|Brain sensing headband|[Muse careers](http://www.choosemuse.com/careers/)|
 |[Northern Block](https://www.northernblock.ca/)|Blockchain|[Northern Block careers](https://www.northernblock.ca/join)|
+|[Nulogy](https://www.nulogy.com/)|Supply chain|[Nulogy careers](https://nulogy.com/about/careers/)|
 |[Nudge Rewards](https://www.nudgerewards.com/)|Retail engagement app|[Nudge careers](https://www.nudgerewards.com/careers/)|
 |[Nymi](https://nymi.com/)|Hardware Identity and Authentication|[Nymi careers](https://nymi.com/careers)|
 |[OneClass](https://oneclass.com/)|Education, learning platform|[OneClass jobs](https://oneclass.com/jobs.en.html)|
 |[Paytm Labs](https://paytm.ca)|Fintech / Mobile Payments|[Paytm Careers](https://jobs.lever.co/paytm?team=Paytm%20Labs)|
+|[PathFactory](https://pathfactory.com)|Marketing (content)|[PathFactory Careers](https://pathfactory.com/careers)|
 |[Platterz](https://www.platterz.ca/)|Catering + office culture platform|[Platterz careers](https://www.platterz.ca/c/careers/)|
 |[Properly](https://goproperly.com)|Real estate|[Properly jobs](https://boards.greenhouse.io/properly)|
+|[Quandl](https://quandl.com)|Financial data|[Quandl careers](https://www.quandl.com/careers)|
 |[RBC Ventures](https://www.rbcventures.ca/)|Business financing, new ventures|[RBC Ventures careers](https://www.rbcventures.ca/careers)|
 |[Ritual](https://www.ritual.co/)|Online food ordering|[Ritual careers](https://www.ritual.co/careers)|
 |[Rubikloud](https://www.rubikloud.com/)|Machine Learning in Retail|[Rubikloud careers](https://rubikloud.com/careers)|
 |[Setter](https://setter.com/)|Home maintenance, personal assistant|[Setter careers](https://setter.breezy.hr/)|
 |[SnapTravel](https://www.snaptravel.com/)|Chat-based travel booking|[SnapTravel careers](https://www.snaptravel.com/careers)|
+|[StackAdapt](https://www.stackadapt.com/)|Advertising & Marketing|[StackAdapt careers](https://www.stackadapt.com/careers)|
 |[Strategic Mapping](http://www.mapstrat.com/)|Public Transit Technology|[Strategic Mapping careers](http://www.mapstrat.com/careers.html)|
 |[Ten Thousand Coffees](https://www.tenthousandcoffees.com/)|Mentoring and Networking|[Ten Thousand Coffees careers](https://secure.collage.co/jobs/tenthousandcoffees)|
 |[TouchBistro](https://www.touchbistro.com)|POS for Restaurants|[TouchBistro careers](https://www.touchbistro.com/careers/)|
+|[theScore](http://www.thescore.com/)|Sports fan’s experience|[theScore careers](http://mobile.thescore.com/careers/)|
+|[Think Research](http://www.thinkresearch.com/)|Care services|[Think Research careers](http://www.thinkresearch.com/ca/company/careers/)|
+|[ThinkData Works](http://www.thinkdataworks.com/)|Data insight|[ThinkData Works careers](http://thinkdataworks.com/#/careers)|
 |[Thomson Reuters](https://www.snap.com)|Business intelligence|[Thomson Reuters jobs in Toronto](http://jobs.thomsonreuters.com/ListJobs/All/Search/tr-other-locations/toronto/tr-full-country-name/canada/)|
 |[Top Hat](https://tophat.com//)|EdTech, higher education teaching platform|[Top Hat careers](https://tophat.com/work-with-us/)|
 |[TradeRev](https://www.traderev.com/en-ca/)|Online car auction|[TradeRev careers](http://work.traderev.com/)|
+|[TribalScale](https://www.tribalscale.com)|Product development|[TribalScale jobs](https://tribalscale.workable.com/)|
+|[TWG](https://twg.io/)|IT Services|[TWG careers](http://twg.io/careers)|
 |[Uberflip](https://www.uberflip.com/)|Content experience management (marketing)|[Uberflip careers](https://www.uberflip.com/careers/)|
 |[Unata](https://unata.com/)|Online Grocery platform|[Unata careers](https://unata.com/about/careers/)|
+|[Universe](https://universe.com/)|Ticket sales|[Universe careers](https://careers.universe.com)|
 |[Vena Solutions](https://venasolutions.com)|Business solutions software|[Vena Solutions careers](https://careers.venasolutions.com/)|
 |[Wattpad](https://www.wattpad.com/)|Community for reading, writing, publishing|[Wattpad careers](https://company.wattpad.com/work-at-wattpad)|
 |[Wave](https://www.waveapps.com)|Financial software for small businesses|[Wave careers](https://www.waveapps.com/about-us/jobs/)|
