@@ -86,6 +86,7 @@
 |[Intel](https://www.intel.com/)|Processors, SoC, FPGA|Santa Clara, CA|[Intel Jobs Toronto](https://jobs.intel.com/ListJobs/All/Country-CA/State-ON/City-Toronto/)|
 |[Instacart](https://www.instacart.ca/)|Online grocery delivery|San Francisco, CA|[Instacart careers](https://careers.instacart.com/)|
 |[Mozilla](https://mozilla.org)|Web browser|Mountain View, CA|[Mozilla jobs in Toronto](https://careers.mozilla.org/listings/?location=Toronto)|
+|[Nomis Solutions](https://www.nomissolutions.com/)|Fintech - Price Optimization|San Francisco, CA|[Nomis Careers](https://www.nomissolutions.com/about/job-postings)|
 |[Oracle](https://www.oracle.com/ca-en/corporate/index.html)|Databases, cloud computing, enterprise software|Redwood City, CA|[Oracle careers](https://www.oracle.com/ca-en/corporate/index.html#careers)|
 |[PagerDuty](https://www.pagerduty.com/)|Digital operations management|San Francisco, CA|[PagerDuty careers](https://www.pagerduty.com/careers/)|
 |[Pivotal](https://pivotal.io/)|Business solutions, developer tools, cloud platform|San Francisco, CA|[Pivotal careers](https://pivotal.io/careers)|
