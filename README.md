@@ -120,7 +120,7 @@
 |[DigitalOcean](https://www.digitalocean.com/)|Cloud computing platform|New York, NY|[DigitalOcean careers](https://www.digitalocean.com/company/careers/)|
 |[Elastic](https://www.elastic.co/)|Open source search, logs, analytics|Mountain View, CA|[Elastic careers](https://www.elastic.co/about/careers)|
 |[Fastly](https://www.fastly.com/)|Edge cloud platform, CDN|San Francisco, CA|[Fastly careers](https://www.fastly.com/about/careers)|
-|[Github](https://github.com/)|Development platform: code hosting, version control|San Francisco, CA|[Github careers](https://github.com/about/careers)|
+|[GitHub](https://github.com/)|Development platform: code hosting, version control|San Francisco, CA|[GitHub careers](https://github.com/about/careers)|
 |[IOHK](https://iohk.io/)|Blockchain, cryptocurrency|Hong Kong|[IOHK careers](https://iohk.io/careers/)|
 |[Matrix.org](https://matrix.org)|Open source real time communication|London, United Kingdom|[Matrix.org on AngelList](https://angel.co/matrix-org)|
 |[Mesosphere](https://mesosphere.com/)|Enterprise cloud/container platform|San Francisco, CA|[Mesosphere careers](https://mesosphere.com/careers/)|
