@@ -28,6 +28,7 @@
 |[FundThrough](https://www.fundthrough.com/)|Finance, funding, invoicing|[FundThrough careers](https://fundthrough.humi.ca/job-board)|
 |[Hubba](https://www.hubba.com/)|B2B (business to business) e-commerce|[Hubba careers](https://hq.hubba.com/careers)|
 |[Hubdoc](https://www.hubdoc.com/)|Document collection software|[Hubdoc jobs](https://www.hubdoc.com/jobs)|
+|[Index Exchange](https://www.indexexchange.com/)|Ad tech|[Index Exchange careers](https://www.indexexchange.com/careers/)|
 |[Influitive](https://www.influitive.com/)|Advocacy marketing|[Influitive careers](https://www.influitive.com/careers)|
 |[Kira Systems](https://www.kirasystems.com/)|Machine Learning in Legal|[Kira Systems careers](https://www.kirasystems.com/careers/)|
 |[Kobo](https://www.kobo.com/ca/en)|eBooks, eReader, audiobooks|[Kobo careers](https://www.kobo.com/ca/en/p/careers)|
