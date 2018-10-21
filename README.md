@@ -124,6 +124,7 @@
 |[Elastic](https://www.elastic.co/)|Open source search, logs, analytics|Mountain View, CA|[Elastic careers](https://www.elastic.co/about/careers)|
 |[Fastly](https://www.fastly.com/)|Edge cloud platform, CDN|San Francisco, CA|[Fastly careers](https://www.fastly.com/about/careers)|
 |[GitHub](https://github.com/)|Development platform: code hosting, version control|San Francisco, CA|[GitHub careers](https://github.com/about/careers)|
+|[Gitlab](https://gitlab.com)|Development platform: Version control, CI/CD |San Francisco, CA|[Gitlab careers](https://about.gitlab.com/jobs/)|
 |[IOHK](https://iohk.io/)|Blockchain, cryptocurrency|Hong Kong|[IOHK careers](https://iohk.io/careers/)|
 |[Matrix.org](https://matrix.org)|Open source real time communication|London, United Kingdom|[Matrix.org on AngelList](https://angel.co/matrix-org)|
 |[Mesosphere](https://mesosphere.com/)|Enterprise cloud/container platform|San Francisco, CA|[Mesosphere careers](https://mesosphere.com/careers/)|
