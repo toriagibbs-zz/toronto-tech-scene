@@ -1,3 +1,8 @@
+Jump to section:
+1. [Toronto-based Tech Companies](#toronto-based-tech-companies)
+2. [Tech Companies with an Office in Toronto](#tech-companies-with-an-office-in-toronto)
+3. [Tech Companies who can Hire Remotely in Ontario](#tech-companies-who-can-hire-remotely-in-ontario)
+
 # Toronto-based Tech Companies
 
 | Company | Industry/product | Learn more |
