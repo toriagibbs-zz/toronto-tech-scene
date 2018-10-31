@@ -48,6 +48,7 @@ Jump to section:
 |[Paytm Labs](https://paytm.ca)|Fintech / Mobile Payments|[Paytm Careers](https://jobs.lever.co/paytm?team=Paytm%20Labs)|
 |[PathFactory](https://pathfactory.com)|Marketing (content)|[PathFactory Careers](https://pathfactory.com/careers)|
 |[Platterz](https://www.platterz.ca/)|Catering + office culture platform|[Platterz careers](https://www.platterz.ca/c/careers/)|
+|[Prodigy](https://www.prodigygame.com/)|Educational math game for kids|[Prodigy careers](https://www.prodigygame.com/jobs/)|
 |[Properly](https://goproperly.com)|Real estate|[Properly jobs](https://boards.greenhouse.io/properly)|
 |[Quandl](https://quandl.com)|Financial data|[Quandl careers](https://www.quandl.com/careers)|
 |[Rangle.io](https://rangle.io)|Product Development|[Rangle careers](https://rangle.io/careers)|
@@ -69,6 +70,7 @@ Jump to section:
 |[Top Hat](https://tophat.com//)|EdTech, higher education teaching platform|[Top Hat careers](https://tophat.com/work-with-us/)|
 |[TradeRev](https://www.traderev.com/en-ca/)|Online car auction|[TradeRev careers](http://work.traderev.com/)|
 |[TribalScale](https://www.tribalscale.com)|Product development|[TribalScale jobs](https://tribalscale.workable.com/)|
+|[Tulip Retail](https://www.tulip.com)|Mobile platform for sales associates|[Tulip Retail careers](https://tulip.com/about/careers/)|
 |[TWG](https://twg.io/)|IT Services|[TWG careers](http://twg.io/careers)|
 |[Uberflip](https://www.uberflip.com/)|Content experience management (marketing)|[Uberflip careers](https://www.uberflip.com/careers/)|
 |[Unata](https://unata.com/)|Online Grocery platform|[Unata careers](https://unata.com/about/careers/)|
