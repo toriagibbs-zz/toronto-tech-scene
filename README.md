@@ -87,6 +87,7 @@ Jump to section:
 |---------|------------------|-------------|------------|
 |[Amazon](https://www.amazon.ca/)|E-commerce|Seattle, WA|[Amazon jobs Toronto](https://www.amazon.jobs/en/locations/toronto-canada)|
 |[Autodesk](https://www.autodesk.ca)|Software|San Rafael, CA|[Autodesk Careers](https://autodesk.rolepoint.com/?shorturl=hyRWd)|
+|[Bolt](https://bolt.com/)|E-commerce infra|San Francisco, CA|[Bolt jobs](https://bolt.com/jobs)|
 |[Cadre](https://cadre.com/)|Real estate investment|New York, NY|[Cadre careers](https://cadre.com/careers)|
 |[CircleCI](https://circleci.com/)|Continuous integration, continuous delivery|San Francisco, CA|[CircleCI careers](https://circleci.com/jobs/)|
 |[Consensys](https://new.consensys.net/)|Blockchain|Brooklyn, NY|[Consensys careers](https://new.consensys.net/careers/)|
@@ -98,6 +99,7 @@ Jump to section:
 |[Index Exchange](https://www.indexexchange.com/)|Ad tech|New York, NY|[Index Exchange careers](https://www.indexexchange.com/careers/)|
 |[Intel](https://www.intel.com/)|Processors, SoC, FPGA|Santa Clara, CA|[Intel Jobs Toronto](https://jobs.intel.com/ListJobs/All/Country-CA/State-ON/City-Toronto/)|
 |[Instacart](https://www.instacart.ca/)|Online grocery delivery|San Francisco, CA|[Instacart careers](https://careers.instacart.com/)|
+|[Lever](https://www.lever.co)|Recruiting software|San Francisco, CA|[Lever jobs in Toronto](https://www.lever.co/careers-toronto)|
 |[Mozilla](https://mozilla.org)|Web browser|Mountain View, CA|[Mozilla jobs in Toronto](https://careers.mozilla.org/listings/?location=Toronto)|
 |[Nomis Solutions](https://www.nomissolutions.com/)|Fintech - Price Optimization|San Francisco, CA|[Nomis Careers](https://www.nomissolutions.com/about/job-postings)|
 |[Oracle](https://www.oracle.com/ca-en/corporate/index.html)|Databases, cloud computing, enterprise software|Redwood City, CA|[Oracle careers](https://www.oracle.com/ca-en/corporate/index.html#careers)|
@@ -108,6 +110,7 @@ Jump to section:
 |[Sidewalk Labs](https://www.sidewalklabs.com/)|Urban innovation, city planning|New York, NY|[Sidewalk Labs careers](https://boards.greenhouse.io/sidewalklabs)|
 |[Shopify](https://www.shopify.ca/)|E-commerce platform|Ottawa, ON|[Shopify careers](https://www.shopify.ca/careers)|
 |[Shopkick](https://www.shopkick.com/)|Shopping rewards program|Redwood City, CA|[Shopkick careers](https://www.shopkick.com/careers)|
+|[SoundHound](https://soundhound.com/)|Voice interfaces|Santa Clara, CA|[SoundHound careers](soundhound.com/careers)|
 |[Slack](https://slack.com)|Collaboration tools, instant messaging|San Francisco, CA|[Slack careers](https://slack.com)|
 |[Snap, Inc.](https://www.snap.com)|Fun stuff (Snapchat, Bitmoji)|Los Angeles, CA|[Snap careers](https://careers.snap.com/)|
 |[SpankChain](https://spankchain.com/)|Blockchain, adult industry, social justice|Los Angeles, CA|[SpankChain Jobs](https://spankchain.com/jobs)|
