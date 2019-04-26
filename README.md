@@ -31,6 +31,7 @@ Jump to section:
 |[Format](https://www.format.com/)|Online portfolio platform|[Format jobs](https://www.format.com/jobs)|
 |[FreshBooks](https://www.freshbooks.com/)|Accounting, invoicing|[FreshBooks careers](https://www.freshbooks.com/careers)|
 |[FundThrough](https://www.fundthrough.com/)|Finance, funding, invoicing|[FundThrough careers](https://fundthrough.humi.ca/job-board)|
+|[Gene42](https://gene42.com/)|Genetics, precision medicine|[Gene42 careers](https://angel.co/gene42/jobs)|
 |[Hubba](https://www.hubba.com/)|B2B (business to business) e-commerce|[Hubba careers](https://hq.hubba.com/careers)|
 |[Hubdoc](https://www.hubdoc.com/)|Document collection software|[Hubdoc jobs](https://www.hubdoc.com/jobs)|
 |[Influitive](https://www.influitive.com/)|Advocacy marketing|[Influitive careers](https://www.influitive.com/careers)|
