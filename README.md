@@ -90,6 +90,7 @@ Jump to section:
 |---------|------------------|-------------|------------|
 |[Amazon](https://www.amazon.ca/)|E-commerce|Seattle, WA|[Amazon jobs Toronto](https://www.amazon.jobs/en/locations/toronto-canada)|
 |[Autodesk](https://www.autodesk.ca)|Software|San Rafael, CA|[Autodesk Careers](https://autodesk.rolepoint.com/?shorturl=hyRWd)|
+|[Benevity](https://www.benevity.com/)|Leader in corporate social responsibility and employee engagement software, including online giving, matching, volunteering and community investment. |Calgary, AB|[Benevity careers](https://trr.tbe.taleo.net/trr01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=37&org=BENEINC)|
 |[Bolt](https://bolt.com/)|E-commerce infra|San Francisco, CA|[Bolt jobs](https://bolt.com/jobs)|
 |[Cadre](https://cadre.com/)|Real estate investment|New York, NY|[Cadre careers](https://cadre.com/careers)|
 |[CircleCI](https://circleci.com/)|Continuous integration, continuous delivery|San Francisco, CA|[CircleCI careers](https://circleci.com/jobs/)|
