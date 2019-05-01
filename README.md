@@ -43,6 +43,7 @@ Jump to section:
 |[Muse](http://www.choosemuse.com/)|Brain sensing headband|[Muse careers](http://www.choosemuse.com/careers/)|
 |[Northern Block](https://www.northernblock.ca/)|Blockchain|[Northern Block careers](https://www.northernblock.ca/join)|
 |[Nulogy](https://www.nulogy.com/)|Supply chain|[Nulogy careers](https://nulogy.com/about/careers/)|
+|[Nudge.ai](https://nudge.ai/)|Sales relationship management|[Nudge careers](https://nudge.ai/careers/)|
 |[Nudge Rewards](https://www.nudgerewards.com/)|Retail engagement app|[Nudge careers](https://www.nudgerewards.com/careers/)|
 |[Nymi](https://nymi.com/)|Hardware Identity and Authentication|[Nymi careers](https://nymi.com/careers)|
 |[OneClass](https://oneclass.com/)|Education, learning platform|[OneClass jobs](https://oneclass.com/jobs.en.html)|
