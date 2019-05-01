@@ -122,6 +122,7 @@ Jump to section:
 |[Verint](https://www.verint.com/careers/index.html)|Business solutions, customer engagement management|Huntington, NY|[Verint careers](https://www.verint.com/careers/index.html)|
 |[Vision Critical](https://www.visioncritical.com/)|CRM software, machine learning|Vancouver, BC|[Vision Critical Careers](https://www.visioncritical.com/careers/)|
 |[WorkMarket](https://www.workmarket.com/)|Freelance/contract management system|New York, NY|[WorkMarket careers](https://www.workmarket.com/careers)|
+|[Benevity](https://www.benevity.com/)|Leader in corporate social responsibility and employee engagement software, including online giving, matching, volunteering and community investment. |Calgary, AB|[Benevity careers](https://trr.tbe.taleo.net/trr01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=37&org=BENEINC)|
 
 # Tech Companies who can Hire Remotely in Ontario
 
