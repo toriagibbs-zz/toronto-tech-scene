@@ -91,6 +91,7 @@ Jump to section:
 |[Amazon](https://www.amazon.ca/)|E-commerce|Seattle, WA|[Amazon jobs Toronto](https://www.amazon.jobs/en/locations/toronto-canada)|
 |[Autodesk](https://www.autodesk.ca)|Software|San Rafael, CA|[Autodesk Careers](https://autodesk.rolepoint.com/?shorturl=hyRWd)|
 |[Bolt](https://bolt.com/)|E-commerce infra|San Francisco, CA|[Bolt jobs](https://bolt.com/jobs)|
+|[Benevity](https://www.benevity.com/)|Leader in corporate social responsibility and employee engagement software, including online giving, matching, volunteering and community investment. |Calgary, AB|[Benevity careers](https://trr.tbe.taleo.net/trr01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=37&org=BENEINC)|
 |[Cadre](https://cadre.com/)|Real estate investment|New York, NY|[Cadre careers](https://cadre.com/careers)|
 |[CircleCI](https://circleci.com/)|Continuous integration, continuous delivery|San Francisco, CA|[CircleCI careers](https://circleci.com/jobs/)|
 |[Consensys](https://new.consensys.net/)|Blockchain|Brooklyn, NY|[Consensys careers](https://new.consensys.net/careers/)|
@@ -122,7 +123,6 @@ Jump to section:
 |[Verint](https://www.verint.com/careers/index.html)|Business solutions, customer engagement management|Huntington, NY|[Verint careers](https://www.verint.com/careers/index.html)|
 |[Vision Critical](https://www.visioncritical.com/)|CRM software, machine learning|Vancouver, BC|[Vision Critical Careers](https://www.visioncritical.com/careers/)|
 |[WorkMarket](https://www.workmarket.com/)|Freelance/contract management system|New York, NY|[WorkMarket careers](https://www.workmarket.com/careers)|
-|[Benevity](https://www.benevity.com/)|Leader in corporate social responsibility and employee engagement software, including online giving, matching, volunteering and community investment. |Calgary, AB|[Benevity careers](https://trr.tbe.taleo.net/trr01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=37&org=BENEINC)|
 
 # Tech Companies who can Hire Remotely in Ontario
 
