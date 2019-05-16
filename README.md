@@ -18,6 +18,7 @@ Jump to section:
 |[BlueDot](https://bluedot.global/)|Public health, big data|[BlueDot Careers](https://www.bluedot.global/careers)|
 |[Borrowell](https://www.borrowell.com/)|Fintech, credit reporting, loans|[Borowell Careers](https://www.borrowell.com/careers/)|
 |[CareGuide](https://www.careguide.com/)|Care services|[CareGuide team](https://careguide.com/team)|
+|[Cluep](https://cluep.com/)|AdTech|[Cluep careers](https://cluep.com/careers/)|
 |[Connected](https://www.connected.io/)|Product development firm|[Connected careers](https://www.connected.io/careers)|
 |[Dash MD](https://www.dashmd.co/)|Healthcare data management|[Dash MD on AngelList](https://angel.co/dash-md)|
 |[Dessa](https://www.dessa.com/)|Machine learning for business|[Jobs at Dessa](https://www.dessa.com/careers/)|
