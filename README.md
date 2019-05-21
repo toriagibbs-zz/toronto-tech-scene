@@ -18,6 +18,7 @@ Jump to section:
 |[BlueDot](https://bluedot.global/)|Public health, big data|[BlueDot Careers](https://www.bluedot.global/careers)|
 |[Borrowell](https://www.borrowell.com/)|Fintech, credit reporting, loans|[Borowell Careers](https://www.borrowell.com/careers/)|
 |[CareGuide](https://www.careguide.com/)|Care services|[CareGuide team](https://careguide.com/team)|
+|[Cluep](https://cluep.com/)|AdTech|[Cluep careers](https://cluep.com/careers/)|
 |[Connected](https://www.connected.io/)|Product development firm|[Connected careers](https://www.connected.io/careers)|
 |[Dash MD](https://www.dashmd.co/)|Healthcare data management|[Dash MD on AngelList](https://angel.co/dash-md)|
 |[Dessa](https://www.dessa.com/)|Machine learning for business|[Jobs at Dessa](https://www.dessa.com/careers/)|
@@ -96,6 +97,7 @@ Jump to section:
 |[Cadre](https://cadre.com/)|Real estate investment|New York, NY|[Cadre careers](https://cadre.com/careers)|
 |[CircleCI](https://circleci.com/)|Continuous integration, continuous delivery|San Francisco, CA|[CircleCI careers](https://circleci.com/jobs/)|
 |[Consensys](https://new.consensys.net/)|Blockchain|Brooklyn, NY|[Consensys careers](https://new.consensys.net/careers/)|
+|[Coursera](https://www.coursera.org/)|Online Learning Platform|Mountain View, CA|[Coursera careers](https://about.coursera.org/careers/opportunities/)|
 |[eBay](https://www.ebay.ca/)|E-commerce, online auction (includes [Kijiji](https://www.kijiji.ca/)!)|San Jose, CA|[eBay careers in Toronto](https://careers.ebayinc.com/join-our-team/start-your-search/find-jobs-by-location/detail/canada)|
 |[Etsy](https://www.etsy.com/)|E-commerce for unique goods|Brooklyn, NY|[Etsy careers](https://www.etsy.com/careers)|
 |[Fathom Health](https://www.fathomhealth.co/)|Machine learning for medical codes|San Francisco, CA|[Fathom Health careers](https://jobs.lever.co/fathomhealth)|
