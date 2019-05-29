@@ -51,6 +51,7 @@ Jump to section:
 |[Paytm Labs](https://paytm.ca)|Fintech / Mobile Payments|[Paytm Careers](https://jobs.lever.co/paytm?team=Paytm%20Labs)|
 |[PathFactory](https://pathfactory.com)|Marketing (content)|[PathFactory Careers](https://pathfactory.com/careers)|
 |[Platterz](https://www.platterz.ca/)|Catering + office culture platform|[Platterz careers](https://www.platterz.ca/c/careers/)|
+|[PolicyMe](https://www.policyme.com/)|Insurtech|[PolicyMe Careers](https://www.policyme.com/careers/)|
 |[Prodigy](https://www.prodigygame.com/)|Educational math game for kids|[Prodigy careers](https://www.prodigygame.com/jobs/)|
 |[Properly](https://goproperly.com)|Real estate|[Properly jobs](https://boards.greenhouse.io/properly)|
 |[Quandl](https://quandl.com)|Financial data|[Quandl careers](https://www.quandl.com/careers)|
