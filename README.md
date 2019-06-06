@@ -36,7 +36,6 @@ Jump to section:
 |[Hubba](https://www.hubba.com/)|B2B (business to business) e-commerce|[Hubba careers](https://hq.hubba.com/careers)|
 |[Hubdoc](https://www.hubdoc.com/)|Document collection software|[Hubdoc jobs](https://www.hubdoc.com/jobs)|
 |[Influitive](https://www.influitive.com/)|Advocacy marketing|[Influitive careers](https://www.influitive.com/careers)|
-|[Jobber](https://getjobber.com/)|Field service software|[Jobber careers](https://getjobber.com/careers/)|
 |[Loblaw Digital](http://loblawdigital.co/)|Ecommerce, Retail|[Loblaw Digital](http://loblawdigital.co/careers/)|
 |[Kira Systems](https://www.kirasystems.com/)|Machine Learning in Legal|[Kira Systems careers](https://www.kirasystems.com/careers/)|
 |[Kobo](https://www.kobo.com/ca/en)|eBooks, eReader, audiobooks|[Kobo careers](https://www.kobo.com/ca/en/p/careers)|
@@ -108,6 +107,7 @@ Jump to section:
 |[Index Exchange](https://www.indexexchange.com/)|Ad tech|New York, NY|[Index Exchange careers](https://www.indexexchange.com/careers/)|
 |[Intel](https://www.intel.com/)|Processors, SoC, FPGA|Santa Clara, CA|[Intel Jobs Toronto](https://jobs.intel.com/ListJobs/All/Country-CA/State-ON/City-Toronto/)|
 |[Instacart](https://www.instacart.ca/)|Online grocery delivery|San Francisco, CA|[Instacart careers](https://careers.instacart.com/)|
+|[Jobber](https://getjobber.com/)|Field service software|Edmonton, AB|[Jobber careers](https://getjobber.com/careers/)|
 |[Lever](https://www.lever.co)|Recruiting software|San Francisco, CA|[Lever jobs in Toronto](https://www.lever.co/careers-toronto)|
 |[Mozilla](https://mozilla.org)|Web browser|Mountain View, CA|[Mozilla jobs in Toronto](https://careers.mozilla.org/listings/?location=Toronto)|
 |[Nomis Solutions](https://www.nomissolutions.com/)|Fintech - Price Optimization|San Francisco, CA|[Nomis Careers](https://www.nomissolutions.com/about/job-postings)|
