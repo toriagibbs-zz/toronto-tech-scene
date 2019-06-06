@@ -107,6 +107,7 @@ Jump to section:
 |[Index Exchange](https://www.indexexchange.com/)|Ad tech|New York, NY|[Index Exchange careers](https://www.indexexchange.com/careers/)|
 |[Intel](https://www.intel.com/)|Processors, SoC, FPGA|Santa Clara, CA|[Intel Jobs Toronto](https://jobs.intel.com/ListJobs/All/Country-CA/State-ON/City-Toronto/)|
 |[Instacart](https://www.instacart.ca/)|Online grocery delivery|San Francisco, CA|[Instacart careers](https://careers.instacart.com/)|
+|[Jobber](https://getjobber.com/)|Field service software|Edmonton, AB|[Jobber careers](https://getjobber.com/careers/)|
 |[Lever](https://www.lever.co)|Recruiting software|San Francisco, CA|[Lever jobs in Toronto](https://www.lever.co/careers-toronto)|
 |[Mozilla](https://mozilla.org)|Web browser|Mountain View, CA|[Mozilla jobs in Toronto](https://careers.mozilla.org/listings/?location=Toronto)|
 |[Nomis Solutions](https://www.nomissolutions.com/)|Fintech - Price Optimization|San Francisco, CA|[Nomis Careers](https://www.nomissolutions.com/about/job-postings)|
