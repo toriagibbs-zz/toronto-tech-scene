@@ -113,6 +113,7 @@ Jump to section:
 |[Nomis Solutions](https://www.nomissolutions.com/)|Fintech - Price Optimization|San Francisco, CA|[Nomis Careers](https://www.nomissolutions.com/about/job-postings)|
 |[Oracle](https://www.oracle.com/ca-en/corporate/index.html)|Databases, cloud computing, enterprise software|Redwood City, CA|[Oracle careers](https://www.oracle.com/ca-en/corporate/index.html#careers)|
 |[PagerDuty](https://www.pagerduty.com/)|Digital operations management|San Francisco, CA|[PagerDuty careers](https://www.pagerduty.com/careers/)|
+|[PAX Labs](https://pax.com/)|Cannabis technology|San Francisco, CA|[PAX Labs careers](https://www.pax.com/pages/careers)|
 |[Pivotal](https://pivotal.io/)|Business solutions, developer tools, cloud platform|San Francisco, CA|[Pivotal careers](https://pivotal.io/careers)|
 |[Proofpoint](https://www.proofpoint.com)|Cybersecurity|Sunnyvale, CA|[Proofpoint careers](https://www.proofpoint.com/us/company/careers)|
 |[Red Hat](https://www.redhat.com/)|Linux, Middleware, Open Source|Raleigh, NC|[Red Hat Careers](https://www.redhat.com/en/jobs)
