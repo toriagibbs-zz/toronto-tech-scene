@@ -48,6 +48,7 @@ Jump to section:
 |[Nudge Rewards](https://www.nudgerewards.com/)|Retail engagement app|[Nudge Rewards careers](https://www.nudgerewards.com/careers/)|
 |[Nymi](https://nymi.com/)|Hardware Identity and Authentication|[Nymi careers](https://nymi.com/careers)|
 |[OneClass](https://oneclass.com/)|Education, learning platform|[OneClass jobs](https://oneclass.com/jobs.en.html)|
+|[Opencare](https://www.opencare.com/)|Healthcare, dental care|[Opencare careers](https://www.opencare.com/careers)|
 |[Paytm Labs](https://paytm.ca)|Fintech / Mobile Payments|[Paytm Careers](https://jobs.lever.co/paytm?team=Paytm%20Labs)|
 |[PathFactory](https://pathfactory.com)|Marketing (content)|[PathFactory Careers](https://pathfactory.com/careers)|
 |[Platterz](https://www.platterz.ca/)|Catering + office culture platform|[Platterz careers](https://www.platterz.ca/c/careers/)|
