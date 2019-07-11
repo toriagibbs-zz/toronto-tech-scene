@@ -17,6 +17,7 @@ Jump to section:
 |[BioConnect](https://bioconnect.com/)|Hardware Identity and Authentication|[BioConnect careers](https://bioconnect.com/careers/)|
 |[BlueDot](https://bluedot.global/)|Public health, big data|[BlueDot Careers](https://www.bluedot.global/careers)|
 |[Borrowell](https://www.borrowell.com/)|Fintech, credit reporting, loans|[Borowell Careers](https://www.borrowell.com/careers/)|
+|[CampBrain](https://www.campbrain.com/)|Camp management software|[careers](https://www.campbrain.com/careers)
 |[CareGuide](https://www.careguide.com/)|Care services|[CareGuide team](https://careguide.com/team)|
 |[Cluep](https://cluep.com/)|AdTech|[Cluep careers](https://cluep.com/careers/)|
 |[Connected](https://www.connected.io/)|Product development firm|[Connected careers](https://www.connected.io/careers)|
