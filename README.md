@@ -15,9 +15,9 @@ Jump to section:
 |[Avail](https://avail.app/)|Personal Health Assistant|[Avail careers](https://avail.breezy.hr/)|
 |[BenchSci](https://www.benchsci.com/)|Machine learning for antibody search|[BenchSci careers](https://benchsci.bamboohr.com/jobs/)|
 |[BioConnect](https://bioconnect.com/)|Hardware Identity and Authentication|[BioConnect careers](https://bioconnect.com/careers/)|
-|[BlueDot](https://bluedot.global/)|Public health, big data|[BlueDot Careers](https://www.bluedot.global/careers)|
-|[Borrowell](https://www.borrowell.com/)|Fintech, credit reporting, loans|[Borowell Careers](https://www.borrowell.com/careers/)|
-|[CampBrain](https://www.campbrain.com/)|Camp management software|[careers](https://www.campbrain.com/careers)
+|[BlueDot](https://bluedot.global/)|Public health, big data|[BlueDot careers](https://www.bluedot.global/careers)|
+|[Borrowell](https://www.borrowell.com/)|Fintech, credit reporting, loans|[Borowell careers](https://www.borrowell.com/careers/)|
+|[CampBrain](https://www.campbrain.com/)|Camp management software|[CampBrain careers](https://www.campbrain.com/careers)
 |[CareGuide](https://www.careguide.com/)|Care services|[CareGuide team](https://careguide.com/team)|
 |[Cluep](https://cluep.com/)|AdTech|[Cluep careers](https://cluep.com/careers/)|
 |[Connected](https://www.connected.io/)|Product development firm|[Connected careers](https://www.connected.io/careers)|
@@ -40,7 +40,7 @@ Jump to section:
 |[Loblaw Digital](http://loblawdigital.co/)|Ecommerce, Retail|[Loblaw Digital](http://loblawdigital.co/careers/)|
 |[Kira Systems](https://www.kirasystems.com/)|Machine Learning in Legal|[Kira Systems careers](https://www.kirasystems.com/careers/)|
 |[Kobo](https://www.kobo.com/ca/en)|eBooks, eReader, audiobooks|[Kobo careers](https://www.kobo.com/ca/en/p/careers)|
-|[Koho](https://www.koho.ca/)|Financial services|[Koho Careers](https://www.koho.ca/careers/)|
+|[Koho](https://www.koho.ca/)|Financial services|[Koho careers](https://www.koho.ca/careers/)|
 |[League](https://league.com/ca/)|Health benefits|[League careers](https://league.com/ca/careers-at-league/)|
 |[Muse](http://www.choosemuse.com/)|Brain sensing headband|[Muse careers](http://www.choosemuse.com/careers/)|
 |[Northern Block](https://www.northernblock.ca/)|Blockchain|[Northern Block careers](https://www.northernblock.ca/join)|
@@ -50,10 +50,10 @@ Jump to section:
 |[Nymi](https://nymi.com/)|Hardware Identity and Authentication|[Nymi careers](https://nymi.com/careers)|
 |[OneClass](https://oneclass.com/)|Education, learning platform|[OneClass jobs](https://oneclass.com/jobs.en.html)|
 |[Opencare](https://www.opencare.com/)|Healthcare, dental care|[Opencare careers](https://www.opencare.com/careers)|
-|[Paytm Labs](https://paytm.ca)|Fintech / Mobile Payments|[Paytm Careers](https://jobs.lever.co/paytm?team=Paytm%20Labs)|
-|[PathFactory](https://pathfactory.com)|Marketing (content)|[PathFactory Careers](https://pathfactory.com/careers)|
+|[Paytm Labs](https://paytm.ca)|Fintech / Mobile Payments|[Paytm careers](https://jobs.lever.co/paytm?team=Paytm%20Labs)|
+|[PathFactory](https://pathfactory.com)|Marketing (content)|[PathFactory careers](https://pathfactory.com/careers)|
 |[Platterz](https://www.platterz.ca/)|Catering + office culture platform|[Platterz careers](https://www.platterz.ca/c/careers/)|
-|[PolicyMe](https://www.policyme.com/)|Insurtech|[PolicyMe Careers](https://www.policyme.com/careers/)|
+|[PolicyMe](https://www.policyme.com/)|Insurtech|[PolicyMe careers](https://www.policyme.com/careers/)|
 |[Prodigy](https://www.prodigygame.com/)|Educational math game for kids|[Prodigy careers](https://www.prodigygame.com/jobs/)|
 |[Properly](https://goproperly.com)|Real estate|[Properly jobs](https://boards.greenhouse.io/properly)|
 |[Quandl](https://quandl.com)|Financial data|[Quandl careers](https://www.quandl.com/careers)|
@@ -86,7 +86,7 @@ Jump to section:
 |[Wattpad](https://www.wattpad.com/)|Community for reading, writing, publishing|[Wattpad careers](https://company.wattpad.com/work-at-wattpad)|
 |[Wave](https://www.waveapps.com)|Financial software for small businesses|[Wave careers](https://www.waveapps.com/about-us/jobs/)|
 |[Wealthsimple](https://www.wealthsimple.com/en-ca/)|Finance, investment|[Wealthsimple careers](https://www.wealthsimple.com/en-ca/work-with-us)|
-|[WGames](https://wgames.com/)|Game Development|[WGames Careers](https://wgames.com/#perks)|
+|[WGames](https://wgames.com/)|Game Development|[WGames careers](https://wgames.com/#perks)|
 
 # Tech Companies with an Office in Toronto
 
@@ -94,8 +94,8 @@ Jump to section:
 |---------|------------------|-------------|------------|
 |[Altice USA](http://alticeusa.com/)|Telecommunications|Long Island City, NY|[Altice USA jobs Toronto](https://www.alticeusacareers.com/jobs/ca-on-toronto/)|
 |[Amazon](https://www.amazon.ca/)|E-commerce|Seattle, WA|[Amazon jobs Toronto](https://www.amazon.jobs/en/locations/toronto-canada)|
-|[Autodesk](https://www.autodesk.ca)|Software|San Rafael, CA|[Autodesk Careers](https://autodesk.rolepoint.com/?shorturl=hyRWd)|
-|[Benevity](https://www.benevity.com/)|Leader in corporate social responsibility and employee engagement software, including online giving, matching, volunteering and community investment. |Calgary, AB|[Benevity careers](https://trr.tbe.taleo.net/trr01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=37&org=BENEINC)|
+|[Autodesk](https://www.autodesk.ca)|Software|San Rafael, CA|[Autodesk careers](https://autodesk.rolepoint.com/?shorturl=hyRWd)|
+|[Benevity](https://www.benevity.com/)|Corporate social responsibility and employee engagement software|Calgary, AB|[Benevity careers](https://trr.tbe.taleo.net/trr01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=37&org=BENEINC)|
 |[Bolt](https://bolt.com/)|E-commerce infra|San Francisco, CA|[Bolt jobs](https://bolt.com/jobs)|
 |[Cadre](https://cadre.com/)|Real estate investment|New York, NY|[Cadre careers](https://cadre.com/careers)|
 |[CircleCI](https://circleci.com/)|Continuous integration, continuous delivery|San Francisco, CA|[CircleCI careers](https://circleci.com/jobs/)|
@@ -105,7 +105,7 @@ Jump to section:
 |[Etsy](https://www.etsy.com/)|E-commerce for unique goods|Brooklyn, NY|[Etsy careers](https://www.etsy.com/careers)|
 |[Fathom Health](https://www.fathomhealth.co/)|Machine learning for medical codes|San Francisco, CA|[Fathom Health careers](https://jobs.lever.co/fathomhealth)|
 |[Google](https://www.google.com/)|Tech... all the tech|Mountain View, CA|[Google jobs Toronto](https://careers.google.com/jobs#t=sq&q=j&li=20&l=false&jl=43.653226%3A-79.38318429999998%3AToronto%2C+ON%2C+Canada%3ACA%3A%3A19.271436077549094%3ALOCALITY&jld=10&&jcoid=7c8c6665-81cf-4e11-8fc9-ec1d6a69120c&jcoid=e43afd0d-d215-45db-a154-5386c9036525&)|
-|[IBM](https://www.ibm.com/ca-en/)|Watson (AI), Db2 (Database), blockchain, compilers, cloud, devOps, design, security, enterprise software, consulting, support, and more... |Armonk, NY|[IBM Canada Careers](https://www-03.ibm.com/employment/ca/en/)|
+|[IBM](https://www.ibm.com/ca-en/)|Watson (AI), Db2 (Database), blockchain, compilers, cloud, devOps, design, security, enterprise software, consulting, support, and more... |Armonk, NY|[IBM Canada careers](https://www-03.ibm.com/employment/ca/en/)|
 |[Index Exchange](https://www.indexexchange.com/)|Ad tech|New York, NY|[Index Exchange careers](https://www.indexexchange.com/careers/)|
 |[Intel](https://www.intel.com/)|Processors, SoC, FPGA|Santa Clara, CA|[Intel Jobs Toronto](https://jobs.intel.com/ListJobs/All/Country-CA/State-ON/City-Toronto/)|
 |[Instacart](https://www.instacart.ca/)|Online grocery delivery|San Francisco, CA|[Instacart careers](https://careers.instacart.com/)|
@@ -118,18 +118,18 @@ Jump to section:
 |[PAX Labs](https://pax.com/)|Cannabis technology|San Francisco, CA|[PAX Labs careers](https://www.pax.com/pages/careers)|
 |[Pivotal](https://pivotal.io/)|Business solutions, developer tools, cloud platform|San Francisco, CA|[Pivotal careers](https://pivotal.io/careers)|
 |[Proofpoint](https://www.proofpoint.com)|Cybersecurity|Sunnyvale, CA|[Proofpoint careers](https://www.proofpoint.com/us/company/careers)|
-|[Red Hat](https://www.redhat.com/)|Linux, Middleware, Open Source|Raleigh, NC|[Red Hat Careers](https://www.redhat.com/en/jobs)
+|[Red Hat](https://www.redhat.com/)|Linux, Middleware, Open Source|Raleigh, NC|[Red Hat careers](https://www.redhat.com/en/jobs)
 |[Sidewalk Labs](https://www.sidewalklabs.com/)|Urban innovation, city planning|New York, NY|[Sidewalk Labs careers](https://boards.greenhouse.io/sidewalklabs)|
 |[Shopify](https://www.shopify.ca/)|E-commerce platform|Ottawa, ON|[Shopify careers](https://www.shopify.ca/careers)|
 |[Shopkick](https://www.shopkick.com/)|Shopping rewards program|Redwood City, CA|[Shopkick careers](https://www.shopkick.com/careers)|
 |[Slack](https://slack.com)|Collaboration tools, instant messaging|San Francisco, CA|[Slack careers](https://slack.com/intl/en-ca/careers)|
 |[Snap, Inc.](https://www.snap.com)|Fun stuff (Snapchat, Bitmoji)|Los Angeles, CA|[Snap careers](https://careers.snap.com/)|
 |[SoundHound](https://soundhound.com/)|Voice interfaces|Santa Clara, CA|[SoundHound careers](soundhound.com/careers)|
-|[SpankChain](https://spankchain.com/)|Blockchain, adult industry, social justice|Los Angeles, CA|[SpankChain Jobs](https://spankchain.com/jobs)|
+|[SpankChain](https://spankchain.com/)|Blockchain, adult industry, social justice|Los Angeles, CA|[SpankChain jobs](https://spankchain.com/jobs)|
 |[TELUS Digital](https://www.telus.com/)|Digital Labs for a major Canadian Telecom|Vancouver, BC|[TELUS Digital careers](https://labs.telus.com/careers)|
 |[Turbonomic](https://turbonomic.com/)|Workload automation for the cloud|Boston, MA|[Turbonomic careers](https://turbonomic.com/company/careers/)|
 |[Verint](https://www.verint.com/careers/index.html)|Business solutions, customer engagement management|Huntington, NY|[Verint careers](https://www.verint.com/careers/index.html)|
-|[Vision Critical](https://www.visioncritical.com/)|CRM software, machine learning|Vancouver, BC|[Vision Critical Careers](https://www.visioncritical.com/careers/)|
+|[Vision Critical](https://www.visioncritical.com/)|CRM software, machine learning|Vancouver, BC|[Vision Critical careers](https://www.visioncritical.com/careers/)|
 |[WorkMarket](https://www.workmarket.com/)|Freelance/contract management system|New York, NY|[WorkMarket careers](https://www.workmarket.com/careers)|
 
 # Tech Companies who can Hire Remotely in Ontario
@@ -141,7 +141,7 @@ Jump to section:
 |[Apple](https://www.apple.com/ca/)|Consumer electronics|Cupertino, CA|[Apple job search](https://jobs.apple.com/ca/search)|
 |[Auth0](https://auth0.com/)|Identity access management|Seattle, WA|[Auth0 careers](https://auth0.com/careers)|
 |[Big Bear Software](http://www.bigbearsoftware.ca/)|Custom software, websites, mobile apps|Penticton, BC|[Big Bear Software careers](http://bigbearcustomsoftware.com/careers/)|
-|[Close.io](https://close.io/)|CRM / Sales communication platform|All-remote|[Close.io Jobs](http://jobs.close.io/)|
+|[Close.io](https://close.io/)|CRM / Sales communication platform|All-remote|[Close.io jobs](http://jobs.close.io/)|
 |[Cockroach Labs](https://www.cockroachlabs.com/)|Distributed database|New York, NY|[Cockroach Labs careers](https://www.cockroachlabs.com/careers/)|
 |[Confluent](https://www.confluent.io/)|Enterprise Kafka, streaming applications|Palo Alto, CA|[Confluent careers](https://www.confluent.io/careers/)|
 |[Datadog](https://www.datadoghq.com/)|Monitoring & analytics|New York, NY|[Datadog careers](https://www.datadoghq.com/careers/)|
@@ -157,7 +157,7 @@ Jump to section:
 |[Nylas](https://www.nylas.com/)|Email, calendar, contacts|San Francisco, CA|[Nylas careers](https://www.nylas.com/jobs/)|
 |[PacerPro](https://www.pacerpro.com/)|Court litigation management software|San Francisco, CA|[PacerPro on LinkedIn](https://www.linkedin.com/company/pacerpro/)|
 |[Protocol Labs](https://protocol.ai/)|Internet protocols and tools|No HQ (fully remote)|[Protocol Labs careers](https://protocol.ai/join/)|
-|[Red Hat](https://www.redhat.com/)|Linux, Middleware, Open Source|Raleigh, NC|[Red Hat Careers](https://www.redhat.com/en/jobs)
+|[Red Hat](https://www.redhat.com/)|Linux, Middleware, Open Source|Raleigh, NC|[Red Hat careers](https://www.redhat.com/en/jobs)
 |[Rivalry.gg](https://www.rivalry.gg/)|Esports betting|Isle of Man|[Rivalry.gg on LinkedIn](https://www.linkedin.com/company/rivalry-ltd/)|
 |[Stack Overflow](https://stackoverflow.com)|Developer Q&A|New York, NY|[Stack Overflow - Work Here](https://stackoverflow.com/company/work-here)|
 |[Stellar](https://www.stellar.org/)|Cryptocurrency|San Francisco, CA|[Stellar careers](https://jobs.lever.co/stellar)|
