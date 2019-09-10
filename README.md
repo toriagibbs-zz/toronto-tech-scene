@@ -21,6 +21,7 @@ Jump to section:
 |[CareGuide](https://www.careguide.com/)|Care services|[CareGuide team](https://careguide.com/team)|
 |[Cluep](https://cluep.com/)|AdTech|[Cluep careers](https://cluep.com/careers/)|
 |[Connected](https://www.connected.io/)|Product development firm|[Connected careers](https://www.connected.io/careers)|
+|[CrowdRiff](https://crowdriff.com/)|Travel tech, B2B Marketing Platform|[CrowdRiff careers](https://crowdriff.com/careers)|
 |[Dash MD](https://www.dashmd.co/)|Healthcare data management|[Dash MD on AngelList](https://angel.co/dash-md)|
 |[Dessa](https://www.dessa.com/)|Machine learning for business|[Jobs at Dessa](https://www.dessa.com/careers/)|
 |[Dot Health](https://www.dothealth.ca/)|Digital health records|[Jobs at Dot Health](https://www.dothealth.ca/jobs)|
