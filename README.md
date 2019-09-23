@@ -37,6 +37,7 @@ Jump to section:
 |[Gene42](https://gene42.com/)|Genetics, precision medicine|[Gene42 careers](https://angel.co/gene42/jobs)|
 |[Hubba](https://www.hubba.com/)|B2B (business to business) e-commerce|[Hubba careers](https://hq.hubba.com/careers)|
 |[Hubdoc](https://www.hubdoc.com/)|Document collection software|[Hubdoc jobs](https://www.hubdoc.com/jobs)|
+|[Indoc Research](https://indocresearch.org)|Research data management platform|[Indoc Research Careers](https://indocresearch.org/careers.html)|
 |[Influitive](https://www.influitive.com/)|Advocacy marketing|[Influitive careers](https://www.influitive.com/careers)|
 |[Loblaw Digital](http://loblawdigital.co/)|Ecommerce, Retail|[Loblaw Digital](http://loblawdigital.co/careers/)|
 |[Kira Systems](https://www.kirasystems.com/)|Machine Learning in Legal|[Kira Systems careers](https://www.kirasystems.com/careers/)|
