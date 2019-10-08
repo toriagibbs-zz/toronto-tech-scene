@@ -17,8 +17,9 @@ Jump to section:
 |[BioConnect](https://bioconnect.com/)|Hardware Identity and Authentication|[BioConnect careers](https://bioconnect.com/careers/)|
 |[BlueDot](https://bluedot.global/)|Public health, big data|[BlueDot careers](https://www.bluedot.global/careers)|
 |[Borrowell](https://www.borrowell.com/)|Fintech, credit reporting, loans|[Borowell careers](https://www.borrowell.com/careers/)|
-|[CampBrain](https://www.campbrain.com/)|Camp management software|[CampBrain careers](https://www.campbrain.com/careers)
+|[CampBrain](https://www.campbrain.com/)|Camp management software|[CampBrain careers](https://www.campbrain.com/careers)|
 |[CareGuide](https://www.careguide.com/)|Care services|[CareGuide team](https://careguide.com/team)|
+|[Chisel AI](https://www.chisel.ai/)|NLP for insurance documents|[Work at Chisel AI](https://www.chisel.ai/work-at-chisel)|
 |[Cluep](https://cluep.com/)|AdTech|[Cluep careers](https://cluep.com/careers/)|
 |[Connected](https://www.connected.io/)|Product development firm|[Connected careers](https://www.connected.io/careers)|
 |[CrowdRiff](https://crowdriff.com/)|Travel tech, B2B Marketing Platform|[CrowdRiff careers](https://crowdriff.com/careers)|
