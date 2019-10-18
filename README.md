@@ -43,7 +43,8 @@ Jump to section:
 |[Loblaw Digital](http://loblawdigital.co/)|Ecommerce, Retail|[Loblaw Digital](http://loblawdigital.co/careers/)|
 |[Kira Systems](https://www.kirasystems.com/)|Machine Learning in Legal|[Kira Systems careers](https://www.kirasystems.com/careers/)|
 |[Kobo](https://www.kobo.com/ca/en)|eBooks, eReader, audiobooks|[Kobo careers](https://www.kobo.com/ca/en/p/careers)|
-|[Koho](https://www.koho.ca/)|Financial services|[Koho careers](https://www.koho.ca/careers/)|
+|[Koho](https://www.koho.ca/)|Financial services|[Koho Careers](https://www.koho.ca/careers/)|
+|[Konrad Group](https://www.konrad.com/)|Digital Agency|[Konrad Careers](http://careers.konradgroup.com/)|
 |[League](https://league.com/ca/)|Health benefits|[League careers](https://league.com/ca/careers-at-league/)|
 |[Muse](http://www.choosemuse.com/)|Brain sensing headband|[Muse careers](http://www.choosemuse.com/careers/)|
 |[Northern Block](https://www.northernblock.ca/)|Blockchain|[Northern Block careers](https://www.northernblock.ca/join)|
