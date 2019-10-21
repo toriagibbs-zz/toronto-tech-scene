@@ -135,6 +135,7 @@ Jump to section:
 |[Snap, Inc.](https://www.snap.com)|Fun stuff (Snapchat, Bitmoji)|Los Angeles, CA|[Snap careers](https://careers.snap.com/)|
 |[SoundHound](https://soundhound.com/)|Voice interfaces|Santa Clara, CA|[SoundHound careers](soundhound.com/careers)|
 |[SpankChain](https://spankchain.com/)|Blockchain, adult industry, social justice|Los Angeles, CA|[SpankChain jobs](https://spankchain.com/jobs)|
+|[Square](https://squareup.com)|Financial services, mobile payments, payments hardware, and e-commerce|San Francisco, CA|[Square careers](https://squareup.com/ca/en/careers)|
 |[TELUS Digital](https://www.telus.com/)|Digital Labs for a major Canadian Telecom|Vancouver, BC|[TELUS Digital careers](https://labs.telus.com/careers)|
 |[Trend Micro](https://www.trendmicro.com/)|Security|Tokyo, Japan|[Trend Micro careers](https://www.trendmicro.com/en_ca/about/careers.html)|
 |[Turbonomic](https://turbonomic.com/)|Workload automation for the cloud|Boston, MA|[Turbonomic careers](https://turbonomic.com/company/careers/)|
