@@ -40,22 +40,22 @@ Jump to section:
 |[Hubdoc](https://www.hubdoc.com/)|Document collection software|[Hubdoc jobs](https://www.hubdoc.com/jobs)|
 |[Indoc Research](https://indocresearch.org)|Research data management platform|[Indoc Research Careers](https://indocresearch.org/careers.html)|
 |[Influitive](https://www.influitive.com/)|Advocacy marketing|[Influitive careers](https://www.influitive.com/careers)|
-|[Loblaw Digital](http://loblawdigital.co/)|Ecommerce, Retail|[Loblaw Digital](http://loblawdigital.co/careers/)|
 |[Kira Systems](https://www.kirasystems.com/)|Machine Learning in Legal|[Kira Systems careers](https://www.kirasystems.com/careers/)|
 |[Kobo](https://www.kobo.com/ca/en)|eBooks, eReader, audiobooks|[Kobo careers](https://www.kobo.com/ca/en/p/careers)|
 |[Koho](https://www.koho.ca/)|Financial services|[Koho Careers](https://www.koho.ca/careers/)|
 |[Konrad Group](https://www.konrad.com/)|Digital Agency|[Konrad Careers](http://careers.konradgroup.com/)|
 |[League](https://league.com/ca/)|Health benefits|[League careers](https://league.com/ca/careers-at-league/)|
+|[Loblaw Digital](http://loblawdigital.co/)|Ecommerce, Retail|[Loblaw Digital](http://loblawdigital.co/careers/)|
 |[Muse](http://www.choosemuse.com/)|Brain sensing headband|[Muse careers](http://www.choosemuse.com/careers/)|
 |[Northern Block](https://www.northernblock.ca/)|Blockchain|[Northern Block careers](https://www.northernblock.ca/join)|
-|[Nulogy](https://www.nulogy.com/)|Supply chain|[Nulogy careers](https://nulogy.com/about/careers/)|
-|[Nudge.ai](https://nudge.ai/)|Sales relationship management|[Nudge.ai careers](https://nudge.ai/careers/)|
 |[Nudge Rewards](https://www.nudgerewards.com/)|Retail engagement app|[Nudge Rewards careers](https://www.nudgerewards.com/careers/)|
+|[Nudge.ai](https://nudge.ai/)|Sales relationship management|[Nudge.ai careers](https://nudge.ai/careers/)|
+|[Nulogy](https://www.nulogy.com/)|Supply chain|[Nulogy careers](https://nulogy.com/about/careers/)|
 |[Nymi](https://nymi.com/)|Hardware Identity and Authentication|[Nymi careers](https://nymi.com/careers)|
 |[OneClass](https://oneclass.com/)|Education, learning platform|[OneClass jobs](https://oneclass.com/jobs.en.html)|
 |[Opencare](https://www.opencare.com/)|Healthcare, dental care|[Opencare careers](https://www.opencare.com/careers)|
-|[Paytm Labs](https://paytm.ca)|Fintech / Mobile Payments|[Paytm careers](https://jobs.lever.co/paytm?team=Paytm%20Labs)|
 |[PathFactory](https://pathfactory.com)|Marketing (content)|[PathFactory careers](https://pathfactory.com/careers)|
+|[Paytm Labs](https://paytm.ca)|Fintech / Mobile Payments|[Paytm careers](https://jobs.lever.co/paytm?team=Paytm%20Labs)|
 |[Platterz](https://www.platterz.ca/)|Catering + office culture platform|[Platterz careers](https://www.platterz.ca/c/careers/)|
 |[PolicyMe](https://www.policyme.com/)|Insurtech|[PolicyMe careers](https://www.policyme.com/careers/)|
 |[Prodigy](https://www.prodigygame.com/)|Educational math game for kids|[Prodigy careers](https://www.prodigygame.com/jobs/)|
@@ -66,8 +66,8 @@ Jump to section:
 |[Resemble AI](https://www.resemble.ai/)|Text to speech|[Resemble AI Jobs](https://angel.co/company/resembleai/jobs)|
 |[Ritual](https://www.ritual.co/)|Online food ordering|[Ritual careers](https://www.ritual.co/careers)|
 |[Rubikloud](https://www.rubikloud.com/)|Machine Learning in Retail|[Rubikloud careers](https://rubikloud.com/careers)|
-|[Setter](https://setter.com/)|Home maintenance, personal assistant|[Setter careers](https://setter.breezy.hr/)|
 |[Sensibill](https://getsensibill.com/)|Digital Receipt Management for Digital Banking Apps|[Sensibill careers](https://getsensibill.com/careers)|
+|[Setter](https://setter.com/)|Home maintenance, personal assistant|[Setter careers](https://setter.breezy.hr/)|
 |[SickKids Research](https://www.sickkids.ca/Research/)|Biotech, A.I., high-performance computing (HPC), IT|[SickKids careers](https://www.sickkids.ca/CareersVolunteering/careers/)|
 |[SnapTravel](https://www.snaptravel.com/)|Chat-based travel booking|[SnapTravel careers](https://www.snaptravel.com/careers)|
 |[Soroc](https://www.soroc.com/)|IT solutions|[Soroc careers](https://soroc.com/careers/#/jobs)|
@@ -75,12 +75,12 @@ Jump to section:
 |[Strategic Mapping](http://www.mapstrat.com/)|Public Transit Technology|[Strategic Mapping careers](http://www.mapstrat.com/careers.html)|
 |[Taplytics](https://taplytics.com/)|Customer engagement platform|[Taplytics careers](https://taplytics.com/careers/)|
 |[Ten Thousand Coffees](https://www.tenthousandcoffees.com/)|Mentoring and Networking|[Ten Thousand Coffees careers](https://secure.collage.co/jobs/tenthousandcoffees)|
-|[TouchBistro](https://www.touchbistro.com)|POS for Restaurants|[TouchBistro careers](https://www.touchbistro.com/careers/)|
 |[theScore](http://www.thescore.com/)|Sports fan’s experience|[theScore careers](http://mobile.thescore.com/careers/)|
 |[Think Research](http://www.thinkresearch.com/)|Care services|[Think Research careers](http://www.thinkresearch.com/ca/company/careers/)|
 |[ThinkData Works](http://www.thinkdataworks.com/)|Data insight|[ThinkData Works careers](http://thinkdataworks.com/#/careers)|
 |[Thomson Reuters](https://www.thomsonreuters.ca/en.html)|Business intelligence|[Thomson Reuters jobs in Toronto](http://jobs.thomsonreuters.com/ListJobs/All/Search/tr-other-locations/toronto/tr-full-country-name/canada/)|
 |[Top Hat](https://tophat.com//)|EdTech, higher education teaching platform|[Top Hat careers](https://tophat.com/work-with-us/)|
+|[TouchBistro](https://www.touchbistro.com)|POS for Restaurants|[TouchBistro careers](https://www.touchbistro.com/careers/)|
 |[TradeRev](https://www.traderev.com/en-ca/)|Online car auction|[TradeRev careers](http://work.traderev.com/)|
 |[TribalScale](https://www.tribalscale.com)|Product development|[TribalScale jobs](https://tribalscale.workable.com/)|
 |[Tulip Retail](https://www.tulip.com)|Mobile platform for sales associates|[Tulip Retail careers](https://tulip.com/about/careers/)|
@@ -115,8 +115,8 @@ Jump to section:
 |[Gravitational](https://gravitational.com)|Open source cloud delivery solutions|Oakland, CA|[Gravitational careers](https://gravitational.breezy.hr/)|
 |[IBM](https://www.ibm.com/ca-en/)|Watson (AI), Db2 (Database), blockchain, compilers, cloud, devOps, design, security, enterprise software, consulting, support, and more... |Armonk, NY|[IBM Canada careers](https://www-03.ibm.com/employment/ca/en/)|
 |[Index Exchange](https://www.indexexchange.com/)|Ad tech|New York, NY|[Index Exchange careers](https://www.indexexchange.com/careers/)|
-|[Intel](https://www.intel.com/)|Processors, SoC, FPGA|Santa Clara, CA|[Intel Jobs Toronto](https://jobs.intel.com/ListJobs/All/Country-CA/State-ON/City-Toronto/)|
 |[Instacart](https://www.instacart.ca/)|Online grocery delivery|San Francisco, CA|[Instacart careers](https://careers.instacart.com/)|
+|[Intel](https://www.intel.com/)|Processors, SoC, FPGA|Santa Clara, CA|[Intel Jobs Toronto](https://jobs.intel.com/ListJobs/All/Country-CA/State-ON/City-Toronto/)|
 |[Jobber](https://getjobber.com/)|Field service software|Edmonton, AB|[Jobber careers](https://getjobber.com/careers/)|
 |[Lever](https://www.lever.co)|Recruiting software|San Francisco, CA|[Lever jobs in Toronto](https://www.lever.co/careers-toronto)|
 |[Mozilla](https://mozilla.org)|Web browser|Mountain View, CA|[Mozilla jobs in Toronto](https://careers.mozilla.org/listings/?location=Toronto)|
@@ -128,9 +128,9 @@ Jump to section:
 |[Proofpoint](https://www.proofpoint.com)|Cybersecurity|Sunnyvale, CA|[Proofpoint careers](https://www.proofpoint.com/us/company/careers)|
 |[Red Hat](https://www.redhat.com/)|Linux, Middleware, Open Source|Raleigh, NC|[Red Hat careers](https://www.redhat.com/en/jobs)
 |[Sentry](https://sentry.io)|Open source error & crash monitoring.|San Francisco, CA|[Sentry careers](https://sentry.io/careers/)| 
-|[Sidewalk Labs](https://www.sidewalklabs.com/)|Urban innovation, city planning|New York, NY|[Sidewalk Labs careers](https://boards.greenhouse.io/sidewalklabs)|
 |[Shopify](https://www.shopify.ca/)|E-commerce platform|Ottawa, ON|[Shopify careers](https://www.shopify.ca/careers)|
 |[Shopkick](https://www.shopkick.com/)|Shopping rewards program|Redwood City, CA|[Shopkick careers](https://www.shopkick.com/careers)|
+|[Sidewalk Labs](https://www.sidewalklabs.com/)|Urban innovation, city planning|New York, NY|[Sidewalk Labs careers](https://boards.greenhouse.io/sidewalklabs)|
 |[Slack](https://slack.com)|Collaboration tools, instant messaging|San Francisco, CA|[Slack careers](https://slack.com/intl/en-ca/careers)|
 |[Snap, Inc.](https://www.snap.com)|Fun stuff (Snapchat, Bitmoji)|Los Angeles, CA|[Snap careers](https://careers.snap.com/)|
 |[SoundHound](https://soundhound.com/)|Voice interfaces|Santa Clara, CA|[SoundHound careers](soundhound.com/careers)|
