@@ -105,6 +105,7 @@ Jump to section:
 |[Bolt](https://bolt.com/)|E-commerce infra|San Francisco, CA|[Bolt jobs](https://bolt.com/jobs)|
 |[Cadre](https://cadre.com/)|Real estate investment|New York, NY|[Cadre careers](https://cadre.com/careers)|
 |[CircleCI](https://circleci.com/)|Continuous integration, continuous delivery|San Francisco, CA|[CircleCI careers](https://circleci.com/jobs/)|
+|[Cohesity](https://cover.com/)|Data backup, Data storage|San Jose, CA|[Cohesity careers](https://www.cohesity.com/company/careers/open-positions/)|
 |[Consensys](https://new.consensys.net/)|Blockchain|Brooklyn, NY|[Consensys careers](https://new.consensys.net/careers/)|
 |[Coursera](https://www.coursera.org/)|Online Learning Platform|Mountain View, CA|[Coursera careers](https://about.coursera.org/careers/opportunities/)|
 |[Cover](https://cover.com/)|Insurance quote app|San Francisco, CA|[Cover careers](https://cover.com/careers)|
