@@ -15,7 +15,7 @@ Jump to section:
 |[Avail](https://avail.app/)|Personal Health Assistant|[Avail careers](https://avail.breezy.hr/)|
 |[BenchSci](https://www.benchsci.com/)|Machine learning for antibody search|[BenchSci careers](https://benchsci.bamboohr.com/jobs/)|
 |[BioConnect](https://bioconnect.com/)|Hardware Identity and Authentication|[BioConnect careers](https://bioconnect.com/careers/)|
-|[BlueCat](https://www.bluecatnetworks.com/)|Network software|[BlueCat careers](https://www.bluecatnetworks.com/adaptive-dns/ddi/)|
+|[BlueCat](https://www.bluecatnetworks.com/)|Network software|[BlueCat careers](https://www.bluecatnetworks.com/careers/)|
 |[BlueDot](https://bluedot.global/)|Public health, big data|[BlueDot careers](https://www.bluedot.global/careers)|
 |[Borrowell](https://www.borrowell.com/)|Fintech, credit reporting, loans|[Borowell careers](https://www.borrowell.com/careers/)|
 |[CampBrain](https://www.campbrain.com/)|Camp management software|[CampBrain careers](https://www.campbrain.com/careers)|
