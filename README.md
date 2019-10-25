@@ -104,6 +104,7 @@ Jump to section:
 |---------|------------------|-------------|------------|
 |[Altice USA](http://alticeusa.com/)|Telecommunications|Long Island City, NY|[Altice USA jobs Toronto](https://www.alticeusacareers.com/jobs/ca-on-toronto/)|
 |[Amazon](https://www.amazon.ca/)|E-commerce|Seattle, WA|[Amazon jobs Toronto](https://www.amazon.jobs/en/locations/toronto-canada)|
+|[AMD](https://www.amd.com/en)|Processors, Graphics and Technology|Santa Clara, CA|[AMD careers](https://autodesk.rolepoint.com/?shorturl=hyRWd)|
 |[Autodesk](https://www.autodesk.ca)|Software|San Rafael, CA|[Autodesk careers](https://autodesk.rolepoint.com/?shorturl=hyRWd)|
 |[Benevity](https://www.benevity.com/)|Corporate social responsibility and employee engagement software|Calgary, AB|[Benevity careers](https://trr.tbe.taleo.net/trr01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=37&org=BENEINC)|
 |[Bolt](https://bolt.com/)|E-commerce infra|San Francisco, CA|[Bolt jobs](https://bolt.com/jobs)|
