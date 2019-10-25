@@ -17,6 +17,7 @@ Jump to section:
 |[BioConnect](https://bioconnect.com/)|Hardware Identity and Authentication|[BioConnect careers](https://bioconnect.com/careers/)|
 |[BlueCat](https://www.bluecatnetworks.com/)|Network software|[BlueCat careers](https://www.bluecatnetworks.com/careers/)|
 |[BlueDot](https://bluedot.global/)|Public health, big data|[BlueDot careers](https://www.bluedot.global/careers)|
+|[Borealis AI (RBC)](https://www.borealisai.com/en/)|Everything AI|[Borealis AI careers](https://www.borealisai.com/en/careers/employment/)|
 |[Borrowell](https://www.borrowell.com/)|Fintech, credit reporting, loans|[Borowell careers](https://www.borrowell.com/careers/)|
 |[CampBrain](https://www.campbrain.com/)|Camp management software|[CampBrain careers](https://www.campbrain.com/careers)|
 |[CareGuide](https://www.careguide.com/)|Care services|[CareGuide team](https://careguide.com/team)|
