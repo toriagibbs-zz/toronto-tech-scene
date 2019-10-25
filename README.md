@@ -137,6 +137,7 @@ Jump to section:
 |[PAX Labs](https://pax.com/)|Cannabis technology|San Francisco, CA|[PAX Labs careers](https://www.pax.com/pages/careers)|
 |[Pivotal](https://pivotal.io/)|Business solutions, developer tools, cloud platform|San Francisco, CA|[Pivotal careers](https://pivotal.io/careers)|
 |[Proofpoint](https://www.proofpoint.com)|Cybersecurity|Sunnyvale, CA|[Proofpoint careers](https://www.proofpoint.com/us/company/careers)|
+|[Qualcomm](https://www.qualcomm.com/)|Wireless and Mobile technology|San Diego, CA|[Qualcomm careers](https://jobs.qualcomm.com/public/search.xhtml)|
 |[Red Hat](https://www.redhat.com/)|Linux, Middleware, Open Source|Raleigh, NC|[Red Hat careers](https://www.redhat.com/en/jobs)
 |[ROSS Intelligence](https://rossintelligence.com/)|Legal research platform|San Francisco, CA|[ROSS Intelligence careers](https://rossintelligence.com/careers.html)|
 |[Scribd](https://www.scribd.com/)|Digital library|San Francisco, CA|[Scribd careers](https://www.scribd.com/about/engineering)|
