@@ -114,6 +114,7 @@ Jump to section:
 |[Cover](https://cover.com/)|Insurance quote app|San Francisco, CA|[Cover careers](https://cover.com/careers)|
 |[Databricks](https://databricks.com/)|Data Analytics Platform|San Francisco, CA|[Databricks careers](https://databricks.com/company/careers)|
 |[eBay](https://www.ebay.ca/)|E-commerce, online auction (includes [Kijiji](https://www.kijiji.ca/)!)|San Jose, CA|[eBay careers in Toronto](https://careers.ebayinc.com/join-our-team/start-your-search/find-jobs-by-location/detail/canada)|
+|[Element AI](https://www.elementai.com/careers)|AI Product Provider|Montreal, QC|[Element AI careers](https://www.elementai.com/careers)|
 |[Etsy](https://www.etsy.com/)|E-commerce for unique goods|Brooklyn, NY|[Etsy careers](https://www.etsy.com/careers)|
 |[Fathom Health](https://www.fathomhealth.co/)|Machine learning for medical codes|San Francisco, CA|[Fathom Health careers](https://jobs.lever.co/fathomhealth)|
 |[Gatik](https://www.confluent.io/)|Autonomous Vehicles|Palo Alto, CA|[Gatik Toronto Careers](https://jobs.lever.co/gatik?location=Toronto%2C%20ON)|
