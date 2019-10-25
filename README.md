@@ -97,6 +97,7 @@ Jump to section:
 |[Wave](https://www.waveapps.com)|Financial software for small businesses|[Wave careers](https://www.waveapps.com/about-us/jobs/)|
 |[Wealthsimple](https://www.wealthsimple.com/en-ca/)|Finance, investment|[Wealthsimple careers](https://www.wealthsimple.com/en-ca/work-with-us)|
 |[WGames](https://wgames.com/)|Game Development|[WGames careers](https://wgames.com/#perks)|
+|[Xanadu](https://www.xanadu.ai/)|Photonic Quantum Computing and Advanced AI|[Xanadu careers](https://www.xanadu.ai/careers/)|
 
 # Tech Companies with an Office in Toronto
 
