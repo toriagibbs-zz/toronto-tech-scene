@@ -45,6 +45,7 @@ Jump to section:
 |[Kobo](https://www.kobo.com/ca/en)|eBooks, eReader, audiobooks|[Kobo careers](https://www.kobo.com/ca/en/p/careers)|
 |[Koho](https://www.koho.ca/)|Financial services|[Koho Careers](https://www.koho.ca/careers/)|
 |[Konrad Group](https://www.konrad.com/)|Digital Agency|[Konrad Careers](http://careers.konradgroup.com/)|
+|[Layer 6 (TD)](https://layer6.ai/)|Everything AI|[Layer 6 careers](https://layer6.ai/careers/#current-openings)|
 |[League](https://league.com/ca/)|Health benefits|[League careers](https://league.com/ca/careers-at-league/)|
 |[Loblaw Digital](http://loblawdigital.co/)|Ecommerce, Retail|[Loblaw Digital](http://loblawdigital.co/careers/)|
 |[Muse](http://www.choosemuse.com/)|Brain sensing headband|[Muse careers](http://www.choosemuse.com/careers/)|
