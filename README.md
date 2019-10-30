@@ -17,6 +17,7 @@ Jump to section:
 |[BioConnect](https://bioconnect.com/)|Hardware Identity and Authentication|[BioConnect careers](https://bioconnect.com/careers/)|
 |[BlueCat](https://www.bluecatnetworks.com/)|Network software|[BlueCat careers](https://www.bluecatnetworks.com/careers/)|
 |[BlueDot](https://bluedot.global/)|Public health, big data|[BlueDot careers](https://www.bluedot.global/careers)|
+|[Borealis AI (RBC)](https://www.borealisai.com/en/)|Everything AI|[Borealis AI careers](https://www.borealisai.com/en/careers/employment/)|
 |[Borrowell](https://www.borrowell.com/)|Fintech, credit reporting, loans|[Borowell careers](https://www.borrowell.com/careers/)|
 |[CampBrain](https://www.campbrain.com/)|Camp management software|[CampBrain careers](https://www.campbrain.com/careers)|
 |[CareGuide](https://www.careguide.com/)|Care services|[CareGuide team](https://careguide.com/team)|
@@ -41,10 +42,12 @@ Jump to section:
 |[Hubdoc](https://www.hubdoc.com/)|Document collection software|[Hubdoc jobs](https://www.hubdoc.com/jobs)|
 |[Indoc Research](https://indocresearch.org)|Research data management platform|[Indoc Research Careers](https://indocresearch.org/careers.html)|
 |[Influitive](https://www.influitive.com/)|Advocacy marketing|[Influitive careers](https://www.influitive.com/careers)|
+|[Integrate.ai](https://integrate.ai/)|Customer Intelligence Platform|[Integrate.ai careers](https://integrate.ai/careers)|
 |[Kira Systems](https://www.kirasystems.com/)|Machine Learning in Legal|[Kira Systems careers](https://www.kirasystems.com/careers/)|
 |[Kobo](https://www.kobo.com/ca/en)|eBooks, eReader, audiobooks|[Kobo careers](https://www.kobo.com/ca/en/p/careers)|
 |[Koho](https://www.koho.ca/)|Financial services|[Koho Careers](https://www.koho.ca/careers/)|
 |[Konrad Group](https://www.konrad.com/)|Digital Agency|[Konrad Careers](http://careers.konradgroup.com/)|
+|[Layer 6 (TD)](https://layer6.ai/)|Everything AI|[Layer 6 careers](https://layer6.ai/careers/#current-openings)|
 |[League](https://league.com/ca/)|Health benefits|[League careers](https://league.com/ca/careers-at-league/)|
 |[Loblaw Digital](http://loblawdigital.co/)|Ecommerce, Retail|[Loblaw Digital](http://loblawdigital.co/careers/)|
 |[Muse](http://www.choosemuse.com/)|Brain sensing headband|[Muse careers](http://www.choosemuse.com/careers/)|
@@ -94,6 +97,7 @@ Jump to section:
 |[Wave](https://www.waveapps.com)|Financial software for small businesses|[Wave careers](https://www.waveapps.com/about-us/jobs/)|
 |[Wealthsimple](https://www.wealthsimple.com/en-ca/)|Finance, investment|[Wealthsimple careers](https://www.wealthsimple.com/en-ca/work-with-us)|
 |[WGames](https://wgames.com/)|Game Development|[WGames careers](https://wgames.com/#perks)|
+|[Xanadu](https://www.xanadu.ai/)|Photonic Quantum Computing and Advanced AI|[Xanadu careers](https://www.xanadu.ai/careers/)|
 
 # Tech Companies with an Office in Toronto
 
@@ -101,6 +105,7 @@ Jump to section:
 |---------|------------------|-------------|------------|
 |[Altice USA](http://alticeusa.com/)|Telecommunications|Long Island City, NY|[Altice USA jobs Toronto](https://www.alticeusacareers.com/jobs/ca-on-toronto/)|
 |[Amazon](https://www.amazon.ca/)|E-commerce|Seattle, WA|[Amazon jobs Toronto](https://www.amazon.jobs/en/locations/toronto-canada)|
+|[AMD](https://www.amd.com/en)|Processors, Graphics and Technology|Santa Clara, CA|[AMD careers](https://autodesk.rolepoint.com/?shorturl=hyRWd)|
 |[Autodesk](https://www.autodesk.ca)|Software|San Rafael, CA|[Autodesk careers](https://autodesk.rolepoint.com/?shorturl=hyRWd)|
 |[Benevity](https://www.benevity.com/)|Corporate social responsibility and employee engagement software|Calgary, AB|[Benevity careers](https://trr.tbe.taleo.net/trr01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=37&org=BENEINC)|
 |[Bolt](https://bolt.com/)|E-commerce infra|San Francisco, CA|[Bolt jobs](https://bolt.com/jobs)|
@@ -112,6 +117,7 @@ Jump to section:
 |[Cover](https://cover.com/)|Insurance quote app|San Francisco, CA|[Cover careers](https://cover.com/careers)|
 |[Databricks](https://databricks.com/)|Data Analytics Platform|San Francisco, CA|[Databricks careers](https://databricks.com/company/careers)|
 |[eBay](https://www.ebay.ca/)|E-commerce, online auction (includes [Kijiji](https://www.kijiji.ca/)!)|San Jose, CA|[eBay careers in Toronto](https://careers.ebayinc.com/join-our-team/start-your-search/find-jobs-by-location/detail/canada)|
+|[Element AI](https://www.elementai.com/careers)|AI Product Provider|Montreal, QC|[Element AI careers](https://www.elementai.com/careers)|
 |[Etsy](https://www.etsy.com/)|E-commerce for unique goods|Brooklyn, NY|[Etsy careers](https://www.etsy.com/careers)|
 |[Fathom Health](https://www.fathomhealth.co/)|Machine learning for medical codes|San Francisco, CA|[Fathom Health careers](https://jobs.lever.co/fathomhealth)|
 |[Gatik](https://www.confluent.io/)|Autonomous Vehicles|Palo Alto, CA|[Gatik Toronto Careers](https://jobs.lever.co/gatik?location=Toronto%2C%20ON)|
@@ -122,7 +128,9 @@ Jump to section:
 |[Instacart](https://www.instacart.ca/)|Online grocery delivery|San Francisco, CA|[Instacart careers](https://careers.instacart.com/)|
 |[Intel](https://www.intel.com/)|Processors, SoC, FPGA|Santa Clara, CA|[Intel Jobs Toronto](https://jobs.intel.com/ListJobs/All/Country-CA/State-ON/City-Toronto/)|
 |[Jobber](https://getjobber.com/)|Field service software|Edmonton, AB|[Jobber careers](https://getjobber.com/careers/)|
+|[Kindred](https://www.kindred.ai/)|Robotics|San Francisco, CA|[Kindred careers](https://www.kindred.ai/careers)|
 |[Lever](https://www.lever.co)|Recruiting software|San Francisco, CA|[Lever jobs in Toronto](https://www.lever.co/careers-toronto)|
+|[LogDNA](https://logdna.com/)|Log Management Software|Mountain View, CA|[LogDNA careers](https://logdna.com/culture-and-career/)|
 |[Magic Leap](https://www.magicleap.com/)|Augmented Reality|Plantation, FL|[Magic Leap careers](https://www.magicleap.com/careers)|
 |[Mozilla](https://mozilla.org)|Web browser|Mountain View, CA|[Mozilla jobs in Toronto](https://careers.mozilla.org/listings/?location=Toronto)|
 |[Nextdoor](https://nextdoor.com/)|Social Network|San Fransisco, CA|[Nextdoor careers](https://about.nextdoor.com/careers/)|
@@ -132,8 +140,10 @@ Jump to section:
 |[PAX Labs](https://pax.com/)|Cannabis technology|San Francisco, CA|[PAX Labs careers](https://www.pax.com/pages/careers)|
 |[Pivotal](https://pivotal.io/)|Business solutions, developer tools, cloud platform|San Francisco, CA|[Pivotal careers](https://pivotal.io/careers)|
 |[Proofpoint](https://www.proofpoint.com)|Cybersecurity|Sunnyvale, CA|[Proofpoint careers](https://www.proofpoint.com/us/company/careers)|
+|[Qualcomm](https://www.qualcomm.com/)|Wireless and Mobile technology|San Diego, CA|[Qualcomm careers](https://jobs.qualcomm.com/public/search.xhtml)|
 |[Red Hat](https://www.redhat.com/)|Linux, Middleware, Open Source|Raleigh, NC|[Red Hat careers](https://www.redhat.com/en/jobs)
 |[ROSS Intelligence](https://rossintelligence.com/)|Legal research platform|San Francisco, CA|[ROSS Intelligence careers](https://rossintelligence.com/careers.html)|
+|[Scribd](https://www.scribd.com/)|Digital library|San Francisco, CA|[Scribd careers](https://www.scribd.com/about/engineering)|
 |[Sentry](https://sentry.io)|Open source error & crash monitoring.|San Francisco, CA|[Sentry careers](https://sentry.io/careers/)| 
 |[Shopify](https://www.shopify.ca/)|E-commerce platform|Ottawa, ON|[Shopify careers](https://www.shopify.ca/careers)|
 |[Shopkick](https://www.shopkick.com/)|Shopping rewards program|Redwood City, CA|[Shopkick careers](https://www.shopkick.com/careers)|
