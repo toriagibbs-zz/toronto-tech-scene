@@ -138,6 +138,7 @@ Jump to section:
 |[Oracle](https://www.oracle.com/ca-en/corporate/index.html)|Databases, cloud computing, enterprise software|Redwood City, CA|[Oracle careers](https://www.oracle.com/ca-en/corporate/index.html#careers)|
 |[PagerDuty](https://www.pagerduty.com/)|Digital operations management|San Francisco, CA|[PagerDuty careers](https://www.pagerduty.com/careers/)|
 |[PAX Labs](https://pax.com/)|Cannabis technology|San Francisco, CA|[PAX Labs careers](https://www.pax.com/pages/careers)|
+|[People.ai](https://people.ai/)|Revenue Intelligence|San Francisco, CA|[People.ai careers](https://people.ai/careers/)|
 |[Pivotal](https://pivotal.io/)|Business solutions, developer tools, cloud platform|San Francisco, CA|[Pivotal careers](https://pivotal.io/careers)|
 |[Proofpoint](https://www.proofpoint.com)|Cybersecurity|Sunnyvale, CA|[Proofpoint careers](https://www.proofpoint.com/us/company/careers)|
 |[Qualcomm](https://www.qualcomm.com/)|Wireless and Mobile technology|San Diego, CA|[Qualcomm careers](https://jobs.qualcomm.com/public/search.xhtml)|
@@ -196,6 +197,7 @@ Jump to section:
 |[Stellar](https://www.stellar.org/)|Cryptocurrency|San Francisco, CA|[Stellar careers](https://jobs.lever.co/stellar)|
 |[Strava](https://www.strava.com/)|Social running and cycling|San Francisco, CA|[Strava careers](https://boards.greenhouse.io/strava)|
 |[Stripe](https://stripe.com)|Online payments|San Francisco, CA|[Stripe careers](https://stripe.com/jobs)|
+|[Twitter](https://twitter.com/)|Social networking|San Francisco, CA|[Twitter careers (Remote Canada)](https://careers.twitter.com/content/careers-twitter/en/jobs.html#location=careers-twitter%3Alocation%2Fremote-canada)|
 |[Unsplash](https://unsplash.com)|Open Visual Library, Search, Creative tools|Montreal, QC|[Team](https://unsplash.com/hiring)|
 |[VEXXHOST](https://vexxhost.com/)|Cloud computing services|Montreal, QC|[VEXXHOST on LinkedIn](https://www.linkedin.com/company/vexxhost/)|
 |[VMware](https://www.vmware.com/ca.html)|Virtualization, cloud computing|Palo Alto, CA|[VMWare careers](https://careers.vmware.com/)|
