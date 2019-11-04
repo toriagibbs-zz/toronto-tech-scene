@@ -160,6 +160,7 @@ Jump to section:
 |[Vision Critical](https://www.visioncritical.com/)|CRM software, machine learning|Vancouver, BC|[Vision Critical careers](https://www.visioncritical.com/careers/)|
 |[VTS](https://www.vts.com/)|Leasing and Asset Management Platform|New York, NY|[VTS careers](https://www.vts.com/careers)|
 |[WorkMarket](https://www.workmarket.com/)|Freelance/contract management system|New York, NY|[WorkMarket careers](https://www.workmarket.com/careers)|
+|[Uber](https://www.uber.com/ca/en/)|ride-sharing, food delivery, self-driving cars|San Francisco, CA|[Uber Careers](https://www.uber.com/ca/en/careers/list/?department=Engineering&location=CAN-Ontario-Toronto)
 |[Yelp](https://www.yelp.com/)|Crowd Sourced Review Platform|San Francisco, CA|[Yelp careers](https://www.yelp.ca/careers/)|
 
 # Tech Companies who can Hire Remotely in Ontario
