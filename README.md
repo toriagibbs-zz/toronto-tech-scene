@@ -132,6 +132,7 @@ Jump to section:
 |[Lever](https://www.lever.co)|Recruiting software|San Francisco, CA|[Lever jobs in Toronto](https://www.lever.co/careers-toronto)|
 |[LogDNA](https://logdna.com/)|Log Management Software|Mountain View, CA|[LogDNA careers](https://logdna.com/culture-and-career/)|
 |[Magic Leap](https://www.magicleap.com/)|Augmented Reality|Plantation, FL|[Magic Leap careers](https://www.magicleap.com/careers)|
+|[Mark43](https://www.mark43.com/)|Public safety software|New York, NY|[Mark43 careers](https://www.mark43.com/careers/)|
 |[Mozilla](https://mozilla.org)|Web browser|Mountain View, CA|[Mozilla jobs in Toronto](https://careers.mozilla.org/listings/?location=Toronto)|
 |[Nextdoor](https://nextdoor.com/)|Social Network|San Fransisco, CA|[Nextdoor careers](https://about.nextdoor.com/careers/)|
 |[Nomis Solutions](https://www.nomissolutions.com/)|Fintech - Price Optimization|San Francisco, CA|[Nomis Careers](https://www.nomissolutions.com/about/job-postings)|
