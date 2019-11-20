@@ -56,6 +56,7 @@ Jump to section:
 |[Nudge.ai](https://nudge.ai/)|Sales relationship management|[Nudge.ai careers](https://nudge.ai/careers/)|
 |[Nulogy](https://www.nulogy.com/)|Supply chain|[Nulogy careers](https://nulogy.com/about/careers/)|
 |[Nymi](https://nymi.com/)|Hardware Identity and Authentication|[Nymi careers](https://nymi.com/careers)|
+|[Nymity](https://www.nymity.com/)|Privacy and Compliance Software Solutions|[Nymity careers](https://www.nymity.com/careers)|
 |[OneClass](https://oneclass.com/)|Education, learning platform|[OneClass jobs](https://oneclass.com/jobs.en.html)|
 |[Opencare](https://www.opencare.com/)|Healthcare, dental care|[Opencare careers](https://www.opencare.com/careers)|
 |[PathFactory](https://pathfactory.com)|Marketing (content)|[PathFactory careers](https://pathfactory.com/careers)|
