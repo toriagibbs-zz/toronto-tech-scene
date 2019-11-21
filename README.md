@@ -11,10 +11,12 @@ Jump to section:
 |[500px](https://500px.com/)|Photography|[500px careers](https://about.500px.com/jobs/)|
 |[Ada](https://ada.support/)|AI chatbot|[Ada careers](https://boards.greenhouse.io/ada)|
 |[Ample Organics](https://ampleorganics.com)|Cannabis software solution|[Ample Organics careers](https://www.ampleorganics.com/careers)|
+|[Archon](http://www.archonsystems.com/)|Small business software|[Archon careers](http://www.archonsystems.com/career.html)|
 |[Autonomic](https://autonomic.ai/)|Technology for transit and mobility|[Autonomic careers](https://autonomic.ai/careers)|
 |[Avail](https://avail.app/)|Personal Health Assistant|[Avail careers](https://avail.breezy.hr/)|
 |[BenchSci](https://www.benchsci.com/)|Machine learning for antibody search|[BenchSci careers](https://benchsci.bamboohr.com/jobs/)|
 |[BioConnect](https://bioconnect.com/)|Hardware Identity and Authentication|[BioConnect careers](https://bioconnect.com/careers/)|
+|[BioSymetrics](https://www.biosymetrics.com/)|Biomedical data analysis|[BioSymetrics careers](https://www.biosymetrics.com/careers/)|
 |[BlueCat](https://www.bluecatnetworks.com/)|Network software|[BlueCat careers](https://www.bluecatnetworks.com/careers/)|
 |[BlueDot](https://bluedot.global/)|Public health, big data|[BlueDot careers](https://www.bluedot.global/careers)|
 |[Borealis AI (RBC)](https://www.borealisai.com/en/)|Everything AI|[Borealis AI careers](https://www.borealisai.com/en/careers/employment/)|
@@ -23,6 +25,7 @@ Jump to section:
 |[CareGuide](https://www.careguide.com/)|Care services|[CareGuide team](https://careguide.com/team)|
 |[Chisel AI](https://www.chisel.ai/)|NLP for insurance documents|[Work at Chisel AI](https://www.chisel.ai/work-at-chisel)|
 |[Cluep](https://cluep.com/)|AdTech|[Cluep careers](https://cluep.com/careers/)|
+|[Coinsquare](https://coinsquare.com/)|Cryptocurrency exchange|[Coinsquare careers](https://coinsquare.com/careers)|
 |[Connected](https://www.connected.io/)|Product development firm|[Connected careers](https://www.connected.io/careers)|
 |[CrowdRiff](https://crowdriff.com/)|Travel tech, B2B Marketing Platform|[CrowdRiff careers](https://crowdriff.com/careers)|
 |[Dash MD](https://www.dashmd.co/)|Healthcare data management|[Dash MD on AngelList](https://angel.co/dash-md)|
@@ -31,13 +34,16 @@ Jump to section:
 |[Drop](https://www.earnwithdrop.com/)|Customer rewards program|[Drop careers](https://www.earnwithdrop.com/pages/careers)|
 |[eBlock](https://www.eblock.ca/)|Online car auction|[eBlock on LinkedIn](https://www.linkedin.com/company/eblock-inc./)|
 |[ecobee](https://www.ecobee.com/)|Smart home technology|[ecobee careers](https://www.ecobee.com/careers/)|
+|[EnergyX](https://www.energyxsolutions.com/)|Software for utility companies|[EnergyX careers](https://www.energyxsolutions.com/careers)|
 |[EventMobi](https://www.eventmobi.com/)|Mobile event apps|[EventMobi careers](https://www.eventmobi.com/careers/)|
+|[Fiix](https://www.fiixsoftware.com/)|Computerized maintenance management system|[Fiix careers](https://www.fiixsoftware.com/careers/)|
 |[FinanceIT](https://www.financeit.io/)|Point-of-sale consumer financing|[FinanceIT careers](https://www.financeit.io/ca/en/careers)|
 |[Flipp](https://www.flipp.com/)|Retail technology|[Flipp careers](https://corp.flipp.com/careers)|
 |[Format](https://www.format.com/)|Online portfolio platform|[Format jobs](https://www.format.com/jobs)|
 |[FreshBooks](https://www.freshbooks.com/)|Accounting, invoicing|[FreshBooks careers](https://www.freshbooks.com/careers)|
 |[FundThrough](https://www.fundthrough.com/)|Finance, funding, invoicing|[FundThrough careers](https://fundthrough.humi.ca/job-board)|
 |[Gene42](https://gene42.com/)|Genetics, precision medicine|[Gene42 careers](https://angel.co/gene42/jobs)|
+|[HiMama](https://www.himama.com/)|Daycare app|[HiMama careers](https://jobs.lever.co/himama?team=Product%20%26%20Engineering)|
 |[Hubba](https://www.hubba.com/)|B2B (business to business) e-commerce|[Hubba careers](https://hq.hubba.com/careers)|
 |[Hubdoc](https://www.hubdoc.com/)|Document collection software|[Hubdoc jobs](https://www.hubdoc.com/jobs)|
 |[Indoc Research](https://indocresearch.org)|Research data management platform|[Indoc Research Careers](https://indocresearch.org/careers.html)|
@@ -59,10 +65,12 @@ Jump to section:
 |[Oanda](https://www1.oanda.com/)|ForEx platform|[Oanda careers](https://www.oanda.com/group/culture/job-openings/)|
 |[OneClass](https://oneclass.com/)|Education, learning platform|[OneClass jobs](https://oneclass.com/jobs.en.html)|
 |[Opencare](https://www.opencare.com/)|Healthcare, dental care|[Opencare careers](https://www.opencare.com/careers)|
+|[PathCore](https://pathcore.com/)|Digital pathology software|[PathCore careers](https://pathcore.freshteam.com/jobs)|
 |[PathFactory](https://pathfactory.com)|Marketing (content)|[PathFactory careers](https://pathfactory.com/careers)|
 |[Paytm Labs](https://paytm.ca)|Fintech / Mobile Payments|[Paytm careers](https://jobs.lever.co/paytm?team=Paytm%20Labs)|
 |[Platterz](https://www.platterz.ca/)|Catering + office culture platform|[Platterz careers](https://www.platterz.ca/c/careers/)|
 |[PolicyMe](https://www.policyme.com/)|Insurtech|[PolicyMe careers](https://www.policyme.com/careers/)|
+|[Primate Labs](https://www.primatelabs.com/)|Performance analysis software|[Primate Labs jobs](https://www.primatelabs.com/jobs/)|
 |[Prodigy](https://www.prodigygame.com/)|Educational math game for kids|[Prodigy careers](https://www.prodigygame.com/jobs/)|
 |[Properly](https://goproperly.com)|Real estate|[Properly jobs](https://boards.greenhouse.io/properly)|
 |[ProteinQure](https://www.proteinqure.com/)|Biotech|[ProteinQure careers](https://www.proteinqure.com/careers.html)|
@@ -79,6 +87,7 @@ Jump to section:
 |[Soroc](https://www.soroc.com/)|IT solutions|[Soroc careers](https://soroc.com/careers/#/jobs)|
 |[StackAdapt](https://www.stackadapt.com/)|Advertising & Marketing|[StackAdapt careers](https://www.stackadapt.com/careers)|
 |[Strategic Mapping](http://www.mapstrat.com/)|Public Transit Technology|[Strategic Mapping careers](http://www.mapstrat.com/careers.html)|
+|[Structura Biotechnology](https://structura.bio/)|Biotech|[Structura careers](https://structura.bio/#careers)|
 |[Taplytics](https://taplytics.com/)|Customer engagement platform|[Taplytics careers](https://taplytics.com/careers/)|
 |[Ten Thousand Coffees](https://www.tenthousandcoffees.com/)|Mentoring and Networking|[Ten Thousand Coffees careers](https://secure.collage.co/jobs/tenthousandcoffees)|
 |[theScore](http://www.thescore.com/)|Sports fan’s experience|[theScore careers](http://mobile.thescore.com/careers/)|
@@ -109,6 +118,7 @@ Jump to section:
 |[Altice USA](http://alticeusa.com/)|Telecommunications|Long Island City, NY|[Altice USA jobs Toronto](https://www.alticeusacareers.com/jobs/ca-on-toronto/)|
 |[Amazon](https://www.amazon.ca/)|E-commerce|Seattle, WA|[Amazon jobs Toronto](https://www.amazon.jobs/en/locations/toronto-canada)|
 |[AMD](https://www.amd.com/en)|Processors, Graphics and Technology|Santa Clara, CA|[AMD careers](https://autodesk.rolepoint.com/?shorturl=hyRWd)|
+|[Assurance](https://www.assurance.com/)|Insurtech|Bellevue, WA|[Assurance careers](https://www.assurance.com/careers)|
 |[Autodesk](https://www.autodesk.ca)|Software|San Rafael, CA|[Autodesk careers](https://autodesk.rolepoint.com/?shorturl=hyRWd)|
 |[Benevity](https://www.benevity.com/)|Corporate social responsibility and employee engagement software|Calgary, AB|[Benevity careers](https://trr.tbe.taleo.net/trr01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=37&org=BENEINC)|
 |[Bolt](https://bolt.com/)|E-commerce infra|San Francisco, CA|[Bolt jobs](https://bolt.com/jobs)|
@@ -149,6 +159,8 @@ Jump to section:
 |[Red Hat](https://www.redhat.com/)|Linux, Middleware, Open Source|Raleigh, NC|[Red Hat careers](https://www.redhat.com/en/jobs)
 |[ROSS Intelligence](https://rossintelligence.com/)|Legal research platform|San Francisco, CA|[ROSS Intelligence careers](https://rossintelligence.com/careers.html)|
 |[Scribd](https://www.scribd.com/)|Digital library|San Francisco, CA|[Scribd careers](https://www.scribd.com/about/engineering)|
+|[Seequent](https://www.seequent.com/)|Data visualization|Christchurch, NZ|[Seequent careers](https://www.seequent.com/company/careers/current-opportunities/)|
+|[Sentiance](https://www.sentiance.com/)|IoT data analysis|Antwerp, Belgium|[Sentiance jobs](https://www.sentiance.com/jobs/)|
 |[Sentry](https://sentry.io)|Open source error & crash monitoring.|San Francisco, CA|[Sentry careers](https://sentry.io/careers/)| 
 |[Shopify](https://www.shopify.ca/)|E-commerce platform|Ottawa, ON|[Shopify careers](https://www.shopify.ca/careers)|
 |[Shopkick](https://www.shopkick.com/)|Shopping rewards program|Redwood City, CA|[Shopkick careers](https://www.shopkick.com/careers)|
