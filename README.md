@@ -105,6 +105,7 @@ Jump to section:
 
 | Company | Industry/product | HQ location | Learn more |
 |---------|------------------|-------------|------------|
+|[AbacusNext](https://www.abacusnext.com/)|Business software|San Diego, CA|[AbacusCareers](https://www.abacusnext.com/careers)|
 |[Altice USA](http://alticeusa.com/)|Telecommunications|Long Island City, NY|[Altice USA jobs Toronto](https://www.alticeusacareers.com/jobs/ca-on-toronto/)|
 |[Amazon](https://www.amazon.ca/)|E-commerce|Seattle, WA|[Amazon jobs Toronto](https://www.amazon.jobs/en/locations/toronto-canada)|
 |[AMD](https://www.amd.com/en)|Processors, Graphics and Technology|Santa Clara, CA|[AMD careers](https://autodesk.rolepoint.com/?shorturl=hyRWd)|
