@@ -70,7 +70,7 @@ Jump to section:
 |[Opencare](https://www.opencare.com/)|Healthcare, dental care|[Opencare careers](https://www.opencare.com/careers)|
 |[PathCore](https://pathcore.com/)|Digital pathology software|[PathCore careers](https://pathcore.freshteam.com/jobs)|
 |[PathFactory](https://pathfactory.com)|Marketing (content)|[PathFactory careers](https://pathfactory.com/careers)|
-|[Paytm Labs](https://paytm.ca)|Fintech / Mobile Payments|[Paytm careers](https://jobs.lever.co/paytm?team=Paytm%20Labs)|
+|[Paytm Labs](https://paytm.ca)|Fintech / Mobile Payments|[Paytm careers](https://jobs.lever.co/paytm)|
 |[Platterz](https://www.platterz.ca/)|Catering + office culture platform|[Platterz careers](https://www.platterz.ca/c/careers/)|
 |[PolicyMe](https://www.policyme.com/)|Insurtech|[PolicyMe careers](https://www.policyme.com/careers/)|
 |[Primate Labs](https://www.primatelabs.com/)|Performance analysis software|[Primate Labs jobs](https://www.primatelabs.com/jobs/)|
@@ -102,6 +102,7 @@ Jump to section:
 |[TradeRev](https://www.traderev.com/en-ca/)|Online car auction|[TradeRev careers](http://work.traderev.com/)|
 |[TribalScale](https://www.tribalscale.com)|Product development|[TribalScale jobs](https://tribalscale.workable.com/)|
 |[Tulip Retail](https://www.tulip.com)|Mobile platform for sales associates|[Tulip Retail careers](https://tulip.com/about/careers/)|
+|[Tucows](https://www.tucows.com/)|Internet services and telecommunications|[Tucows careers](https://www.tucows.com/careers/)|
 |[TWG](https://twg.io/)|IT Services|[TWG careers](http://twg.io/careers)|
 |[Uberflip](https://www.uberflip.com/)|Content experience management (marketing)|[Uberflip careers](https://www.uberflip.com/careers/)|
 |[Unata](https://unata.com/)|Online Grocery platform|[Unata careers](https://unata.com/about/careers/)|
@@ -222,3 +223,4 @@ Jump to section:
 |[Unsplash](https://unsplash.com)|Open Visual Library, Search, Creative tools|Montreal, QC|[Team](https://unsplash.com/hiring)|
 |[VEXXHOST](https://vexxhost.com/)|Cloud computing services|Montreal, QC|[VEXXHOST on LinkedIn](https://www.linkedin.com/company/vexxhost/)|
 |[VMware](https://www.vmware.com/ca.html)|Virtualization, cloud computing|Palo Alto, CA|[VMWare careers](https://careers.vmware.com/)|
+|[Zapier](https://zapier.com/)|Task/Workflow automation|San Francisco, CA|[Zapier careers](https://zapier.com/jobs/#job-openings)|
