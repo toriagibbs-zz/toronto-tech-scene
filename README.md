@@ -176,7 +176,7 @@ Jump to section:
 |[Square](https://squareup.com)|Financial services, mobile payments, payments hardware, and e-commerce|San Francisco, CA|[Square careers](https://squareup.com/ca/en/careers)|
 |[TELUS Digital](https://www.telus.com/)|Digital Labs for a major Canadian Telecom|Vancouver, BC|[TELUS Digital careers](https://labs.telus.com/careers)|
 |[Trend Micro](https://www.trendmicro.com/)|Security|Tokyo, Japan|[Trend Micro careers](https://www.trendmicro.com/en_ca/about/careers.html)|
-|[TrustArc](https://www.trustarc.com/)|Privacy and Compliance Software Solutions|[TrustArc careers](https://www.trustarc.com/careers/)|
+|[TrustArc](https://www.trustarc.com/)|Privacy and Compliance Software Solutions|San Francisco, CA|[TrustArc careers](https://www.trustarc.com/careers/)|
 |[Turbonomic](https://turbonomic.com/)|Workload automation for the cloud|Boston, MA|[Turbonomic careers](https://turbonomic.com/company/careers/)|
 |[Uber](https://www.uber.com/ca/en/)|ride-sharing, food delivery, self-driving cars|San Francisco, CA|[Uber Careers](https://www.uber.com/ca/en/careers/list/?department=Engineering&location=CAN-Ontario-Toronto)
 |[Verint](https://www.verint.com/careers/index.html)|Business solutions, customer engagement management|Huntington, NY|[Verint careers](https://www.verint.com/careers/index.html)|
