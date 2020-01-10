@@ -59,12 +59,10 @@ Jump to section:
 |[Maple](https://www.getmaple.ca/)|Telemedicine|[Maple jobs](https://angel.co/company/getmaple/jobs)|
 |[Muse](http://www.choosemuse.com/)|Brain sensing headband|[Muse careers](http://www.choosemuse.com/careers/)|
 |[Northern Block](https://www.northernblock.ca/)|Blockchain|[Northern Block careers](https://www.northernblock.ca/join)|
-|[NorthOne](https://www.northone.com/)|SMB Checking Account|[NorthOne Careers](https://www.northone.com/us/en/team#careers)|
 |[Nudge Rewards](https://www.nudgerewards.com/)|Retail engagement app|[Nudge Rewards careers](https://www.nudgerewards.com/careers/)|
 |[Nudge.ai](https://nudge.ai/)|Sales relationship management|[Nudge.ai careers](https://nudge.ai/careers/)|
 |[Nulogy](https://www.nulogy.com/)|Supply chain|[Nulogy careers](https://nulogy.com/about/careers/)|
 |[Nymi](https://nymi.com/)|Hardware Identity and Authentication|[Nymi careers](https://nymi.com/careers)|
-|[Nymity](https://www.nymity.com/)|Privacy and Compliance Software Solutions|[Nymity careers](https://www.nymity.com/careers)|
 |[Oanda](https://www1.oanda.com/)|ForEx platform|[Oanda careers](https://www.oanda.com/group/culture/job-openings/)|
 |[OneClass](https://oneclass.com/)|Education, learning platform|[OneClass jobs](https://oneclass.com/jobs.en.html)|
 |[Opencare](https://www.opencare.com/)|Healthcare, dental care|[Opencare careers](https://www.opencare.com/careers)|
@@ -212,7 +210,6 @@ Jump to section:
 |[NS1](https://ns1.com/)|Managed DNS|New York, NY|[NS1 careers](https://ns1.com/careers)|
 |[Nylas](https://www.nylas.com/)|Email, calendar, contacts|San Francisco, CA|[Nylas careers](https://www.nylas.com/jobs/)|
 |[PacerPro](https://www.pacerpro.com/)|Court litigation management software|San Francisco, CA|[PacerPro on LinkedIn](https://www.linkedin.com/company/pacerpro/)|
-|[Polymath](https://www.polymath.network)|Blockchain / Financial Services|Barbados|[Polymath careers](https://polymath.bamboohr.com/jobs/)|
 |[Protocol Labs](https://protocol.ai/)|Internet protocols and tools|No HQ (fully remote)|[Protocol Labs careers](https://protocol.ai/join/)|
 |[Red Hat](https://www.redhat.com/)|Linux, Middleware, Open Source|Raleigh, NC|[Red Hat careers](https://www.redhat.com/en/jobs)
 |[Rivalry.gg](https://www.rivalry.gg/)|Esports betting|Isle of Man|[Rivalry.gg on LinkedIn](https://www.linkedin.com/company/rivalry-ltd/)|
