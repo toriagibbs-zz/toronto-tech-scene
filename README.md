@@ -161,6 +161,7 @@ Jump to section:
 |[Proofpoint](https://www.proofpoint.com)|Cybersecurity|Sunnyvale, CA|[Proofpoint careers](https://www.proofpoint.com/us/company/careers)|
 |[Qualcomm](https://www.qualcomm.com/)|Wireless and Mobile technology|San Diego, CA|[Qualcomm careers](https://jobs.qualcomm.com/public/search.xhtml)|
 |[Red Hat](https://www.redhat.com/)|Linux, Middleware, Open Source|Raleigh, NC|[Red Hat careers](https://www.redhat.com/en/jobs)
+|[Rippling](https://www.rippling.com/)|HR & IT Platform|San Francisco, CA|[Rippling careers](https://jobs.lever.co/rippling?location=Toronto)|
 |[ROSS Intelligence](https://rossintelligence.com/)|Legal research platform|San Francisco, CA|[ROSS Intelligence careers](https://rossintelligence.com/careers.html)|
 |[Scribd](https://www.scribd.com/)|Digital library|San Francisco, CA|[Scribd careers](https://www.scribd.com/about/engineering)|
 |[Seequent](https://www.seequent.com/)|Data visualization|Christchurch, NZ|[Seequent careers](https://www.seequent.com/company/careers/current-opportunities/)|
