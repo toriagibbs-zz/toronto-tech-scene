@@ -150,7 +150,7 @@ Jump to section:
 |[Magic Leap](https://www.magicleap.com/)|Augmented Reality|Plantation, FL|[Magic Leap careers](https://www.magicleap.com/careers)|
 |[Mark43](https://www.mark43.com/)|Public safety software|New York, NY|[Mark43 careers](https://www.mark43.com/careers/)|
 |[Mozilla](https://mozilla.org)|Web browser|Mountain View, CA|[Mozilla jobs in Toronto](https://careers.mozilla.org/listings/?location=Toronto)|
-|[Nextdoor](https://nextdoor.com/)|Social Network|San Fransisco, CA|[Nextdoor careers](https://about.nextdoor.com/careers/)|
+|[Nextdoor](https://nextdoor.com/)|Social Network|San Francisco, CA|[Nextdoor careers](https://about.nextdoor.com/careers/)|
 |[Nomis Solutions](https://www.nomissolutions.com/)|Fintech - Price Optimization|San Francisco, CA|[Nomis Careers](https://www.nomissolutions.com/about/job-postings)|
 |[Oracle](https://www.oracle.com/ca-en/corporate/index.html)|Databases, cloud computing, enterprise software|Redwood City, CA|[Oracle careers](https://www.oracle.com/ca-en/corporate/index.html#careers)|
 |[PagerDuty](https://www.pagerduty.com/)|Digital operations management|San Francisco, CA|[PagerDuty careers](https://www.pagerduty.com/careers/)|
