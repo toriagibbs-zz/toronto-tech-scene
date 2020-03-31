@@ -12,6 +12,7 @@ Jump to section:
 |[Ada](https://ada.support/)|AI chatbot|[Ada careers](https://boards.greenhouse.io/ada)|
 |[Ample Organics](https://ampleorganics.com)|Cannabis software solution|[Ample Organics careers](https://www.ampleorganics.com/careers)|
 |[Archon](http://www.archonsystems.com/)|Small business software|[Archon careers](http://www.archonsystems.com/career.html)|
+|[Arctiq](https://arctiq.ca)|DevOps and Open source solutions provider|[Arctiq careers](https://www.arctiq.ca/careers/)|
 |[Autonomic](https://autonomic.ai/)|Technology for transit and mobility|[Autonomic careers](https://autonomic.ai/careers)|
 |[Avail](https://avail.app/)|Personal Health Assistant|[Avail careers](https://avail.breezy.hr/)|
 |[BenchSci](https://www.benchsci.com/)|Machine learning for antibody search|[BenchSci careers](https://benchsci.bamboohr.com/jobs/)|
@@ -121,6 +122,7 @@ Jump to section:
 |[Altice USA](http://alticeusa.com/)|Telecommunications|Long Island City, NY|[Altice USA jobs Toronto](https://www.alticeusacareers.com/jobs/ca-on-toronto/)|
 |[Amazon](https://www.amazon.ca/)|E-commerce|Seattle, WA|[Amazon jobs Toronto](https://www.amazon.jobs/en/locations/toronto-canada)|
 |[AMD](https://www.amd.com/en)|Processors, Graphics and Technology|Santa Clara, CA|[AMD careers](https://autodesk.rolepoint.com/?shorturl=hyRWd)|
+|[Arctiq](https://arctiq.ca)|DevOps and Open source solutions provider|Toronto, ON|[Arctiq careers](https://www.arctiq.ca/careers/)|
 |[Assurance](https://www.assurance.com/)|Insurtech|Bellevue, WA|[Assurance careers](https://www.assurance.com/careers)|
 |[Autodesk](https://www.autodesk.ca)|Software|San Rafael, CA|[Autodesk careers](https://autodesk.rolepoint.com/?shorturl=hyRWd)|
 |[Benevity](https://www.benevity.com/)|Corporate social responsibility and employee engagement software|Calgary, AB|[Benevity careers](https://trr.tbe.taleo.net/trr01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=37&org=BENEINC)|
@@ -192,6 +194,7 @@ Jump to section:
 |[Accenture](https://www.accenture.com)|Digital consulting|Dublin, Ireland|[Accenture careers](https://www.accenture.com/ca-en/Careers)|
 |[Apollo](https://www.apollographql.com/)|Open source GraphQL developer tools|San Francisco, CA|[Apollo careers](https://www.apollographql.com/careers)|
 |[Apple](https://www.apple.com/ca/)|Consumer electronics|Cupertino, CA|[Apple job search](https://jobs.apple.com/ca/search)|
+|[Arctiq](https://arctiq.ca)|DevOps and Open source solutions provider|Toronto, ON|[Arctiq careers](https://www.arctiq.ca/careers/)|
 |[Auth0](https://auth0.com/)|Identity access management|Seattle, WA|[Auth0 careers](https://auth0.com/careers)|
 |[Automattic](https://automattic.com/)|Website and e-commerce platform|All-remote|[Automattic Jobs](https://automattic.com/work-with-us/)|
 |[Big Bear Software](http://www.bigbearsoftware.ca/)|Custom software, websites, mobile apps|Penticton, BC|[Big Bear Software careers](http://bigbearcustomsoftware.com/careers/)|
