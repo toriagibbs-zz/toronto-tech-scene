@@ -92,7 +92,7 @@ Jump to section:
 |[Structura Biotechnology](https://structura.bio/)|Biotech|[Structura careers](https://structura.bio/#careers)|
 |[Taplytics](https://taplytics.com/)|Customer engagement platform|[Taplytics careers](https://taplytics.com/careers/)|
 |[Ten Thousand Coffees](https://www.tenthousandcoffees.com/)|Mentoring and Networking|[Ten Thousand Coffees careers](https://secure.collage.co/jobs/tenthousandcoffees)|
-|[theScore](http://www.thescore.com/)|Sports fan’s experience|[theScore careers](http://mobile.thescore.com/careers/)|
+|[theScore](http://www.thescore.com/)|Digital sports media and betting|[theScore careers](http://mobile.thescore.com/careers/)|
 |[Think Research](http://www.thinkresearch.com/)|Care services|[Think Research careers](http://www.thinkresearch.com/ca/company/careers/)|
 |[ThinkData Works](http://www.thinkdataworks.com/)|Data insight|[ThinkData Works careers](http://thinkdataworks.com/#/careers)|
 |[Thomson Reuters](https://www.thomsonreuters.ca/en.html)|Business intelligence|[Thomson Reuters jobs in Toronto](http://jobs.thomsonreuters.com/ListJobs/All/Search/tr-other-locations/toronto/tr-full-country-name/canada/)|
@@ -175,6 +175,7 @@ Jump to section:
 |[SpankChain](https://spankchain.com/)|Blockchain, adult industry, social justice|Los Angeles, CA|[SpankChain jobs](https://spankchain.com/jobs)|
 |[Square](https://squareup.com)|Financial services, mobile payments, payments hardware, and e-commerce|San Francisco, CA|[Square careers](https://squareup.com/ca/en/careers)|
 |[TELUS Digital](https://www.telus.com/)|Digital Labs for a major Canadian Telecom|Vancouver, BC|[TELUS Digital careers](https://labs.telus.com/careers)|
+|[theScore](http://www.thescore.com/)|Digital sports media and betting|Toronto, ON|[theScore careers](http://mobile.thescore.com/careers/)|
 |[Trend Micro](https://www.trendmicro.com/)|Security|Tokyo, Japan|[Trend Micro careers](https://www.trendmicro.com/en_ca/about/careers.html)|
 |[TrustArc](https://www.trustarc.com/)|Privacy and Compliance Software Solutions|San Francisco, CA|[TrustArc careers](https://www.trustarc.com/careers/)|
 |[Turbonomic](https://turbonomic.com/)|Workload automation for the cloud|Boston, MA|[Turbonomic careers](https://turbonomic.com/company/careers/)|
@@ -220,6 +221,7 @@ Jump to section:
 |[Stellar](https://www.stellar.org/)|Cryptocurrency|San Francisco, CA|[Stellar careers](https://jobs.lever.co/stellar)|
 |[Strava](https://www.strava.com/)|Social running and cycling|San Francisco, CA|[Strava careers](https://boards.greenhouse.io/strava)|
 |[Stripe](https://stripe.com)|Online payments|San Francisco, CA|[Stripe careers](https://stripe.com/jobs)|
+|[theScore](http://www.thescore.com/)|Digital sports media and betting|Toronto, ON|[theScore careers](http://mobile.thescore.com/careers/)|
 |[Twitter](https://twitter.com/)|Social networking|San Francisco, CA|[Twitter careers (Remote Canada)](https://careers.twitter.com/content/careers-twitter/en/jobs.html#location=careers-twitter%3Alocation%2Fremote-canada)|
 |[Unsplash](https://unsplash.com)|Open Visual Library, Search, Creative tools|Montreal, QC|[Team](https://unsplash.com/hiring)|
 |[VEXXHOST](https://vexxhost.com/)|Cloud computing services|Montreal, QC|[VEXXHOST on LinkedIn](https://www.linkedin.com/company/vexxhost/)|
