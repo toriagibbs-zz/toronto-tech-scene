@@ -44,6 +44,7 @@ Jump to section:
 |[FundThrough](https://www.fundthrough.com/)|Finance, funding, invoicing|[FundThrough careers](https://fundthrough.humi.ca/job-board)|
 |[Gene42](https://gene42.com/)|Genetics, precision medicine|[Gene42 careers](https://angel.co/gene42/jobs)|
 |[HiMama](https://www.himama.com/)|Daycare app|[HiMama careers](https://jobs.lever.co/himama?team=Product%20%26%20Engineering)|
+|[Horizon Games](https://horizon.io/)|Blockchain infrastructure, gaming|[Horizon careers](https://angel.co/company/horizon-blockchain-games)|
 |[Hubba](https://www.hubba.com/)|B2B (business to business) e-commerce|[Hubba careers](https://hq.hubba.com/careers)|
 |[Hubdoc](https://www.hubdoc.com/)|Document collection software|[Hubdoc jobs](https://www.hubdoc.com/jobs)|
 |[Indoc Research](https://indocresearch.org)|Research data management platform|[Indoc Research Careers](https://indocresearch.org/careers.html)|
