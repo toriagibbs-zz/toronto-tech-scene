@@ -10,6 +10,7 @@ Jump to section:
 |[1password](https://1password.com/)|Secret Management|[1password jobs](https://1password.com/jobs/)|
 |[500px](https://500px.com/)|Photography|[500px careers](https://about.500px.com/jobs/)|
 |[Ada](https://ada.support/)|AI chatbot|[Ada careers](https://boards.greenhouse.io/ada)|
+|[Adracare Inc](https://adracare.com/)|Virtual Healthcare|[Adracare careers](https://angel.co/company/adracare/jobs)|
 |[Ample Organics](https://ampleorganics.com)|Cannabis software solution|[Ample Organics careers](https://www.ampleorganics.com/careers)|
 |[Archon](http://www.archonsystems.com/)|Small business software|[Archon careers](http://www.archonsystems.com/career.html)|
 |[Autonomic](https://autonomic.ai/)|Technology for transit and mobility|[Autonomic careers](https://autonomic.ai/careers)|
@@ -165,7 +166,7 @@ Jump to section:
 |[Scribd](https://www.scribd.com/)|Digital library|San Francisco, CA|[Scribd careers](https://www.scribd.com/about/engineering)|
 |[Seequent](https://www.seequent.com/)|Data visualization|Christchurch, NZ|[Seequent careers](https://www.seequent.com/company/careers/current-opportunities/)|
 |[Sentiance](https://www.sentiance.com/)|IoT data analysis|Antwerp, Belgium|[Sentiance jobs](https://www.sentiance.com/jobs/)|
-|[Sentry](https://sentry.io)|Open source error & crash monitoring.|San Francisco, CA|[Sentry careers](https://sentry.io/careers/)| 
+|[Sentry](https://sentry.io)|Open source error & crash monitoring.|San Francisco, CA|[Sentry careers](https://sentry.io/careers/)|
 |[Shopify](https://www.shopify.ca/)|E-commerce platform|Ottawa, ON|[Shopify careers](https://www.shopify.ca/careers)|
 |[Shopkick](https://www.shopkick.com/)|Shopping rewards program|Redwood City, CA|[Shopkick careers](https://www.shopkick.com/careers)|
 |[Sidewalk Labs](https://www.sidewalklabs.com/)|Urban innovation, city planning|New York, NY|[Sidewalk Labs careers](https://boards.greenhouse.io/sidewalklabs)|
