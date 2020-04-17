@@ -88,6 +88,7 @@ Jump to section:
 |[SnapTravel](https://www.snaptravel.com/)|Chat-based travel booking|[SnapTravel careers](https://www.snaptravel.com/careers)|
 |[Soroc](https://www.soroc.com/)|IT solutions|[Soroc careers](https://soroc.com/careers/#/jobs)|
 |[StackAdapt](https://www.stackadapt.com/)|Advertising & Marketing|[StackAdapt careers](https://www.stackadapt.com/careers)|
+|[Stadium Live Studios](https://www.stadiumliveapp.com/)|Sports & Gaming|[Stadium Live Studios careers](https://angel.co/company/stadiumliveapp)|
 |[Strategic Mapping](http://www.mapstrat.com/)|Public Transit Technology|[Strategic Mapping careers](http://www.mapstrat.com/careers.html)|
 |[Structura Biotechnology](https://structura.bio/)|Biotech|[Structura careers](https://structura.bio/#careers)|
 |[Taplytics](https://taplytics.com/)|Customer engagement platform|[Taplytics careers](https://taplytics.com/careers/)|
