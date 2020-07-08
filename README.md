@@ -55,6 +55,7 @@ Jump to section:
 |[Konrad Group](https://www.konrad.com/)|Digital Agency|[Konrad Careers](http://careers.konradgroup.com/)|
 |[Layer 6 (TD)](https://layer6.ai/)|Everything AI|[Layer 6 careers](https://layer6.ai/careers/#current-openings)|
 |[League](https://league.com/ca/)|Health benefits|[League careers](https://league.com/ca/careers-at-league/)|
+|[Leap Tools](http://www.leaptools.com/)|Product visualization|[Leap Tools Careers](http://www.leaptools.com/careers.html)|
 |[Loblaw Digital](http://loblawdigital.co/)|Ecommerce, Retail|[Loblaw Digital](http://loblawdigital.co/careers/)|
 |[Maple](https://www.getmaple.ca/)|Telemedicine|[Maple jobs](https://angel.co/company/getmaple/jobs)|
 |[Muse](http://www.choosemuse.com/)|Brain sensing headband|[Muse careers](http://www.choosemuse.com/careers/)|
