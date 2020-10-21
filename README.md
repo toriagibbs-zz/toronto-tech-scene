@@ -91,6 +91,7 @@ Jump to section:
 |[Strategic Mapping](http://www.mapstrat.com/)|Public Transit Technology|[Strategic Mapping careers](http://www.mapstrat.com/careers.html)|
 |[Structura Biotechnology](https://structura.bio/)|Biotech|[Structura careers](https://structura.bio/#careers)|
 |[Taplytics](https://taplytics.com/)|Customer engagement platform|[Taplytics careers](https://taplytics.com/careers/)|
+|[Tenstorrent](https://www.tenstorrent.com/)|AI hardware|[Tenstorrent careers](https://www.tenstorrent.com/careers/)|
 |[Ten Thousand Coffees](https://www.tenthousandcoffees.com/)|Mentoring and Networking|[Ten Thousand Coffees careers](https://secure.collage.co/jobs/tenthousandcoffees)|
 |[theScore](http://www.thescore.com/)|Sports fan’s experience|[theScore careers](http://mobile.thescore.com/careers/)|
 |[Think Research](http://www.thinkresearch.com/)|Care services|[Think Research careers](http://www.thinkresearch.com/ca/company/careers/)|
@@ -126,6 +127,7 @@ Jump to section:
 |[Benevity](https://www.benevity.com/)|Corporate social responsibility and employee engagement software|Calgary, AB|[Benevity careers](https://trr.tbe.taleo.net/trr01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=37&org=BENEINC)|
 |[Bolt](https://bolt.com/)|E-commerce infra|San Francisco, CA|[Bolt jobs](https://bolt.com/jobs)|
 |[Cadre](https://cadre.com/)|Real estate investment|New York, NY|[Cadre careers](https://cadre.com/careers)|
+|[Cerebras](https://www.cerebras.net/)|AI hardware|Los Altos, CA|[Cerebras careers](https://www.cerebras.net/careers/)|
 |[CircleCI](https://circleci.com/)|Continuous integration, continuous delivery|San Francisco, CA|[CircleCI careers](https://circleci.com/jobs/)|
 |[Cohesity](https://cover.com/)|Data backup, Data storage|San Jose, CA|[Cohesity careers](https://www.cohesity.com/company/careers/open-positions/)|
 |[Consensys](https://new.consensys.net/)|Blockchain|Brooklyn, NY|[Consensys careers](https://new.consensys.net/careers/)|
@@ -139,6 +141,7 @@ Jump to section:
 |[Gatik](https://www.confluent.io/)|Autonomous Vehicles|Palo Alto, CA|[Gatik Toronto Careers](https://jobs.lever.co/gatik?location=Toronto%2C%20ON)|
 |[Google](https://www.google.com/)|Tech... all the tech|Mountain View, CA|[Google jobs Toronto](https://careers.google.com/jobs#t=sq&q=j&li=20&l=false&jl=43.653226%3A-79.38318429999998%3AToronto%2C+ON%2C+Canada%3ACA%3A%3A19.271436077549094%3ALOCALITY&jld=10&&jcoid=7c8c6665-81cf-4e11-8fc9-ec1d6a69120c&jcoid=e43afd0d-d215-45db-a154-5386c9036525&)|
 |[Gravitational](https://gravitational.com)|Open source cloud delivery solutions|Oakland, CA|[Gravitational careers](https://gravitational.breezy.hr/)|
+|[Groq](https://groq.com/)|AI hardware|Mountain View, CA|[Groq careers](https://groq.com/careers/)|
 |[IBM](https://www.ibm.com/ca-en/)|Watson (AI), Db2 (Database), blockchain, compilers, cloud, devOps, design, security, enterprise software, consulting, support, and more... |Armonk, NY|[IBM Canada careers](https://www-03.ibm.com/employment/ca/en/)|
 |[Index Exchange](https://www.indexexchange.com/)|Ad tech|New York, NY|[Index Exchange careers](https://www.indexexchange.com/careers/)|
 |[Instacart](https://www.instacart.ca/)|Online grocery delivery|San Francisco, CA|[Instacart careers](https://careers.instacart.com/)|
