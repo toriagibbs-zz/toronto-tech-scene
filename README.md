@@ -40,6 +40,7 @@ Jump to section:
 |[FinanceIT](https://www.financeit.io/)|Point-of-sale consumer financing|[FinanceIT careers](https://www.financeit.io/ca/en/careers)|
 |[Flipp](https://www.flipp.com/)|Retail technology|[Flipp careers](https://corp.flipp.com/careers)|
 |[Format](https://www.format.com/)|Online portfolio platform|[Format jobs](https://www.format.com/jobs)|
+|[Forma AI](https://www.forma.ai/)|Variable Incentive Compensation Automation|[Forma AI jobs](https://formaai.bamboohr.com/jobs/)|
 |[FreshBooks](https://www.freshbooks.com/)|Accounting, invoicing|[FreshBooks careers](https://www.freshbooks.com/careers)|
 |[FundThrough](https://www.fundthrough.com/)|Finance, funding, invoicing|[FundThrough careers](https://fundthrough.humi.ca/job-board)|
 |[Gene42](https://gene42.com/)|Genetics, precision medicine|[Gene42 careers](https://angel.co/gene42/jobs)|
@@ -81,6 +82,7 @@ Jump to section:
 |[RBC Ventures](https://www.rbcventures.ca/)|Business financing, new ventures|[RBC Ventures careers](https://www.rbcventures.ca/careers)|
 |[Resemble AI](https://www.resemble.ai/)|Text to speech|[Resemble AI Jobs](https://angel.co/company/resembleai/jobs)|
 |[Ritual](https://www.ritual.co/)|Online food ordering|[Ritual careers](https://www.ritual.co/careers)|
+|[Rose Rocket](https://www.roserocket.com/)|Transportation management software|[Rose Rocket](https://apply.workable.com/rose-rocket/)|
 |[Rubikloud](https://www.rubikloud.com/)|Machine Learning in Retail|[Rubikloud careers](https://rubikloud.com/careers)|
 |[Sensibill](https://getsensibill.com/)|Digital Receipt Management for Digital Banking Apps|[Sensibill careers](https://getsensibill.com/careers)|
 |[Setter](https://setter.com/)|Home maintenance, personal assistant|[Setter careers](https://setter.breezy.hr/)|
