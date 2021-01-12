@@ -96,6 +96,7 @@ Jump to section:
 |[Think Research](http://www.thinkresearch.com/)|Care services|[Think Research careers](http://www.thinkresearch.com/ca/company/careers/)|
 |[ThinkData Works](http://www.thinkdataworks.com/)|Data insight|[ThinkData Works careers](http://thinkdataworks.com/#/careers)|
 |[Thomson Reuters](https://www.thomsonreuters.ca/en.html)|Business intelligence|[Thomson Reuters jobs in Toronto](http://jobs.thomsonreuters.com/ListJobs/All/Search/tr-other-locations/toronto/tr-full-country-name/canada/)|
+|[Together Software](https://togetherplatform.com//)|HR, mentorship / learning|[Together Software careers](https://togetherplatform.com/work-with-us/)|
 |[Top Hat](https://tophat.com//)|EdTech, higher education teaching platform|[Top Hat careers](https://tophat.com/work-with-us/)|
 |[TouchBistro](https://www.touchbistro.com)|POS for Restaurants|[TouchBistro careers](https://www.touchbistro.com/careers/)|
 |[TradeRev](https://www.traderev.com/en-ca/)|Online car auction|[TradeRev careers](http://work.traderev.com/)|
