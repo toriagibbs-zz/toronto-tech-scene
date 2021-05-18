@@ -60,7 +60,7 @@ Jump to section:
 |[Muse](http://www.choosemuse.com/)|Brain sensing headband|[Muse careers](http://www.choosemuse.com/careers/)|
 |[Northern Block](https://www.northernblock.ca/)|Blockchain|[Northern Block careers](https://www.northernblock.ca/join)|
 |[NorthOne](https://www.northone.com/)|SMB Checking Account|[NorthOne Careers](https://www.northone.com/us/en/team#careers)|
-|[Nudge Rewards](https://www.nudgerewards.com/)|Retail engagement app|[Nudge Rewards careers](https://www.nudgerewards.com/careers/)|
+|[Nudge](https://nudge.co/)|Retail engagement app|[Nudge careers](https://nudge.co/company/careers/)|
 |[Nulogy](https://www.nulogy.com/)|Supply chain|[Nulogy careers](https://nulogy.com/about/careers/)|
 |[Nymi](https://nymi.com/)|Hardware Identity and Authentication|[Nymi careers](https://nymi.com/careers)|
 |[Nymity](https://www.nymity.com/)|Privacy and Compliance Software Solutions|[Nymity careers](https://www.nymity.com/careers)|
@@ -165,7 +165,7 @@ Jump to section:
 |[Scribd](https://www.scribd.com/)|Digital library|San Francisco, CA|[Scribd careers](https://www.scribd.com/about/engineering)|
 |[Seequent](https://www.seequent.com/)|Data visualization|Christchurch, NZ|[Seequent careers](https://www.seequent.com/company/careers/current-opportunities/)|
 |[Sentiance](https://www.sentiance.com/)|IoT data analysis|Antwerp, Belgium|[Sentiance jobs](https://www.sentiance.com/jobs/)|
-|[Sentry](https://sentry.io)|Open source error & crash monitoring.|San Francisco, CA|[Sentry careers](https://sentry.io/careers/)| 
+|[Sentry](https://sentry.io)|Open source error & crash monitoring.|San Francisco, CA|[Sentry careers](https://sentry.io/careers/)|
 |[Shopify](https://www.shopify.ca/)|E-commerce platform|Ottawa, ON|[Shopify careers](https://www.shopify.ca/careers)|
 |[Shopkick](https://www.shopkick.com/)|Shopping rewards program|Redwood City, CA|[Shopkick careers](https://www.shopkick.com/careers)|
 |[Sidewalk Labs](https://www.sidewalklabs.com/)|Urban innovation, city planning|New York, NY|[Sidewalk Labs careers](https://boards.greenhouse.io/sidewalklabs)|
