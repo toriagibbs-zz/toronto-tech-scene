@@ -220,7 +220,7 @@ Jump to section:
 |[Stellar](https://www.stellar.org/)|Cryptocurrency|San Francisco, CA|[Stellar careers](https://jobs.lever.co/stellar)|
 |[Strava](https://www.strava.com/)|Social running and cycling|San Francisco, CA|[Strava careers](https://boards.greenhouse.io/strava)|
 |[Stripe](https://stripe.com)|Online payments|San Francisco, CA|[Stripe careers](https://stripe.com/jobs)|
-|[Twitter](https://twitter.com/)|Social networking|San Francisco, CA|[Twitter careers (Remote Canada)](https://careers.twitter.com/content/careers-twitter/en/jobs.html#location=careers-twitter%3Alocation%2Fremote-canada)|
+|[Twitter](https://twitter.com/)|Social networking|San Francisco, CA|[Twitter careers (Remote Canada)](https://careers.twitter.com/content/careers-twitter/en/roles.html#location=careers-twitter%3Asr%2Foffice%2Fca%2Fremote-canada&q=canada&sortBy=modified)|
 |[Unsplash](https://unsplash.com)|Open Visual Library, Search, Creative tools|Montreal, QC|[Team](https://unsplash.com/hiring)|
 |[VEXXHOST](https://vexxhost.com/)|Cloud computing services|Montreal, QC|[VEXXHOST on LinkedIn](https://www.linkedin.com/company/vexxhost/)|
 |[VMware](https://www.vmware.com/ca.html)|Virtualization, cloud computing|Palo Alto, CA|[VMWare careers](https://careers.vmware.com/)|
