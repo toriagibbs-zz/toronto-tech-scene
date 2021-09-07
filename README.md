@@ -197,6 +197,7 @@ Jump to section:
 |[Big Bear Software](http://www.bigbearsoftware.ca/)|Custom software, websites, mobile apps|Penticton, BC|[Big Bear Software careers](http://bigbearcustomsoftware.com/careers/)|
 |[Close.io](https://close.io/)|CRM / Sales communication platform|All-remote|[Close.io jobs](http://jobs.close.io/)|
 |[Cockroach Labs](https://www.cockroachlabs.com/)|Distributed database|New York, NY|[Cockroach Labs careers](https://www.cockroachlabs.com/careers/)|
+|[Coinbase](https://www.coinbase.com/)|Crypto Exchange|All-remote|[Coinbase careers](https://www.coinbase.com/careers/)|
 |[Confluent](https://www.confluent.io/)|Enterprise Kafka, streaming applications|Palo Alto, CA|[Confluent careers](https://www.confluent.io/careers/)|
 |[Customer.io](https://www.customer.io/)|Automated messaging|Portland, OR|[Customer.io careers](https://www.customer.io/careers/)|
 |[Datadog](https://www.datadoghq.com/)|Monitoring & analytics|New York, NY|[Datadog careers](https://www.datadoghq.com/careers/)|
