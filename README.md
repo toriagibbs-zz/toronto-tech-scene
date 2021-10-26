@@ -78,6 +78,7 @@ Jump to section:
 |[Properly](https://goproperly.com)|Real estate|[Properly jobs](https://boards.greenhouse.io/properly)|
 |[ProteinQure](https://www.proteinqure.com/)|Biotech|[ProteinQure careers](https://www.proteinqure.com/careers.html)|
 |[Quandl](https://quandl.com)|Financial data|[Quandl careers](https://www.quandl.com/careers)|
+|[Quantigo AI](https://www.quantigo.ai)|AI solitions|[Quantigo AI Careers](https://www.quantigo.ai/career/)|
 |[Rangle.io](https://rangle.io)|Product Development|[Rangle careers](https://rangle.io/careers)|
 |[RBC Ventures](https://www.rbcventures.ca/)|Business financing, new ventures|[RBC Ventures careers](https://www.rbcventures.ca/careers)|
 |[Resemble AI](https://www.resemble.ai/)|Text to speech|[Resemble AI Jobs](https://angel.co/company/resembleai/jobs)|
