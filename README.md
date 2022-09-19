@@ -120,7 +120,7 @@ Jump to section:
 |[AbacusNext](https://www.abacusnext.com/)|Business software|San Diego, CA|[AbacusCareers](https://www.abacusnext.com/careers)|
 |[Altice USA](http://alticeusa.com/)|Telecommunications|Long Island City, NY|[Altice USA jobs Toronto](https://www.alticeusacareers.com/jobs/ca-on-toronto/)|
 |[Amazon](https://www.amazon.ca/)|E-commerce|Seattle, WA|[Amazon jobs Toronto](https://www.amazon.jobs/en/locations/toronto-canada)|
-|[AMD](https://www.amd.com/en)|Processors, Graphics and Technology|Santa Clara, CA|[AMD careers](https://autodesk.rolepoint.com/?shorturl=hyRWd)|
+|[AMD](https://www.amd.com/en)|Processors, Graphics and Technology|Santa Clara, CA|[AMD careers](https://jobs.amd.com/search?q=&q2=&alertId=&locationsearch=&title=&location=Markham)|
 |[Assurance](https://www.assurance.com/)|Insurtech|Bellevue, WA|[Assurance careers](https://www.assurance.com/careers)|
 |[Autodesk](https://www.autodesk.ca)|Software|San Rafael, CA|[Autodesk careers](https://autodesk.rolepoint.com/?shorturl=hyRWd)|
 |[Benevity](https://www.benevity.com/)|Corporate social responsibility and employee engagement software|Calgary, AB|[Benevity careers](https://trr.tbe.taleo.net/trr01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=37&org=BENEINC)|
@@ -139,7 +139,7 @@ Jump to section:
 |[Gatik](https://www.confluent.io/)|Autonomous Vehicles|Palo Alto, CA|[Gatik Toronto Careers](https://jobs.lever.co/gatik?location=Toronto%2C%20ON)|
 |[Google](https://www.google.com/)|Tech... all the tech|Mountain View, CA|[Google jobs Toronto](https://careers.google.com/jobs#t=sq&q=j&li=20&l=false&jl=43.653226%3A-79.38318429999998%3AToronto%2C+ON%2C+Canada%3ACA%3A%3A19.271436077549094%3ALOCALITY&jld=10&&jcoid=7c8c6665-81cf-4e11-8fc9-ec1d6a69120c&jcoid=e43afd0d-d215-45db-a154-5386c9036525&)|
 |[Gravitational](https://gravitational.com)|Open source cloud delivery solutions|Oakland, CA|[Gravitational careers](https://gravitational.breezy.hr/)|
-|[IBM](https://www.ibm.com/ca-en/)|Watson (AI), Db2 (Database), blockchain, compilers, cloud, devOps, design, security, enterprise software, consulting, support, and more... |Armonk, NY|[IBM Canada careers](https://www-03.ibm.com/employment/ca/en/)|
+|[IBM](https://www.ibm.com/ca-en/)|Watson (AI), Db2 (Database), blockchain, compilers, cloud, devOps, design, security, enterprise software, consulting, support, and more... |Armonk, NY|[IBM Canada careers](https://www.ibm.com/ca-en/employment)|
 |[Index Exchange](https://www.indexexchange.com/)|Ad tech|New York, NY|[Index Exchange careers](https://www.indexexchange.com/careers/)|
 |[Instacart](https://www.instacart.ca/)|Online grocery delivery|San Francisco, CA|[Instacart careers](https://careers.instacart.com/)|
 |[Intel](https://www.intel.com/)|Processors, SoC, FPGA|Santa Clara, CA|[Intel Jobs Toronto](https://jobs.intel.com/ListJobs/All/Country-CA/State-ON/City-Toronto/)|
