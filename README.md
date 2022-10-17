@@ -30,6 +30,7 @@ Jump to section:
 |[Connected](https://www.connected.io/)|Product development firm|[Connected careers](https://www.connected.io/careers)|
 |[CrowdRiff](https://crowdriff.com/)|Travel tech, B2B Marketing Platform|[CrowdRiff careers](https://crowdriff.com/careers)|
 |[Dash MD](https://www.dashmd.co/)|Healthcare data management|[Dash MD on AngelList](https://angel.co/dash-md)|
+|[Data Sentinel](https://www.data-sentinel.com/)|Data Automation|[Data Sentinel Careers](https://www.data-sentinel.com/careers)|
 |[Dessa](https://www.dessa.com/)|Machine learning for business|[Jobs at Dessa](https://www.dessa.com/careers/)|
 |[Dot Health](https://www.dothealth.ca/)|Digital health records|[Jobs at Dot Health](https://www.dothealth.ca/jobs)|
 |[Drop](https://www.earnwithdrop.com/)|Customer rewards program|[Drop careers](https://www.earnwithdrop.com/pages/careers)|
@@ -58,6 +59,7 @@ Jump to section:
 |[Layer 6 (TD)](https://layer6.ai/)|Everything AI|[Layer 6 careers](https://layer6.ai/careers/#current-openings)|
 |[League](https://league.com/ca/)|Health benefits|[League careers](https://league.com/ca/careers-at-league/)|
 |[Loblaw Digital](http://loblawdigital.co/)|Ecommerce, Retail|[Loblaw Digital](http://loblawdigital.co/careers/)|
+|[Loopio](https://loopio.com/)|RFP Response Software Experts|[Loopio careers](https://loopio.com/careers/)|
 |[Maple](https://www.getmaple.ca/)|Telemedicine|[Maple jobs](https://angel.co/company/getmaple/jobs)|
 |[Muse](http://www.choosemuse.com/)|Brain sensing headband|[Muse careers](http://www.choosemuse.com/careers/)|
 |[Northern Block](https://www.northernblock.ca/)|Blockchain|[Northern Block careers](https://www.northernblock.ca/join)|
